@@ -62,4 +62,9 @@ body.offcanvas-active {
   width: 100%;
   visibility: visible;
 }
+
+.top_nav_main_div {
+  background-color: black;
+  padding: 5px 15px;
+}
 /*# sourceMappingURL=index.css.map */
