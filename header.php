@@ -19,11 +19,23 @@
 </head>
 
 <body>
-    <div class="top_nav_main_div">
+    <div class="top_nav_main_div d-none d-xxl-block d-xl-block d-lg-block">
         <div class="row">
-            <div class="col-6">
-                <div>
-                    <a href="mailto: abc@example.com"><i class="far fa-envelope"></i> abc@example.com</a>
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-8 col-sm-12 col-12">
+                <div class="top_nav_main_div_left">
+                    <a href="mailto: abc@example.com"><i class="far fa-envelope"></i> <span>abc@example.com</span></a>
+                    <p><i class="far fa-clock"></i> <span>open hours: mon - fri 8:00 <span>am</span> - 6:00 <span>
+                                pm</span> </span></p>
+                </div>
+            </div>
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-4 col-sm-12 col-12">
+                <div class="top_nav_main_div_right">
+                    <a href="tel:+4733378901"><i class="fas fa-phone"></i> <span>+4733378901</span></a>
+                    <div class="top_nav_main_div_right_inner">
+                        <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></span></a>
+                        <a href="#" target="_blank"><i class="fab fa-twitter"></i></span></a>
+                        <a href="#" target="_blank"><i class="fab fa-instagram"></i></span></a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -40,18 +52,23 @@
             </div>
             <a class="navbar-brand" href="#">Logo</a>
 
-            <ul class="navbar-nav">
-                <li class="nav-item active"> <a class="nav-link" href="#">Demo </a> </li>
-                <li class="nav-item"><a class="nav-link" href="#"> Demo </a></li>
-                <li class="nav-item"><a class="nav-link" href="#"> Demo </a></li>
+            <ul class="navbar-nav" id="myDIV">
+                <li class="nav-item "> <a class="nav-link" href="#">home </a> </li>
+                <li class="nav-item "> <a class="nav-link" href="#">about us </a> </li>
+                <li class="nav-item "> <a class="nav-link" href="#">contact us </a> </li>
+                <li class="nav-item"><a class="nav-link" href="#"> Products
+                        Services </a></li>
+                <li class="nav-item"><a class="nav-link" href="#"> Professional Services </a></li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> dropdown Hover me </a>
+                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> Electric Charging Solution
+                    </a>
                     <ul class="dropdown-menu fade-up">
-                        <li><a class="dropdown-item" href="#"> Demo item 1</a></li>
-                        <li><a class="dropdown-item" href="#"> Demo item 2 </a></li>
-                        <li><a class="dropdown-item" href="#"> Demo item 3 </a></li>
+                        <li><a class="dropdown-item" href="#"> EV-Chargers</a></li>
+                        <li><a class="dropdown-item" href="#">EV-Charger-Franchise</a></li>
+                        <li><a class="dropdown-item" href="#"> Smart IOT & Telematics </a></li>
                     </ul>
                 </li>
+
             </ul>
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item"><a class="nav-link" href="#">Demo</a></li>
