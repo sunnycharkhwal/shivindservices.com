@@ -19,7 +19,7 @@
 </section>
 <!-- about end -->
 <!-- Services card -->
-<section class=" container section_mt  mb-5">
+<section class=" container section_mt  ">
     <div class="row g-4">
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
             <div class="services_card_div ">
@@ -58,4 +58,104 @@
     </div>
 </section>
 <!-- Services card end -->
+<!-- IT and Non-IT Supplies -->
+<section class="container section_mt  mb-5">
+    <div class="section_title_div">
+        <h3>IT and Non-IT <span>Non-IT</span> Supplies</h3>
+    </div>
+    <div class="row g-4 mt-3">
+        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+            <div class="it_card">
+                <div class="it_card_img_uper">
+                    <div class="it_card_img">
+                        <div class="it_card_img_inner" style="background-image: url('img/it1.png');"></div>
+                    </div>
+                </div>
+                <h3>IT Hardware</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, repudiandae.
+                </p>
+            </div>
+        </div>
+        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+            <div class="it_card">
+                <div class="it_card_img_uper">
+                    <div class="it_card_img">
+                        <div class="it_card_img_inner" style="background-image: url('img/it2.png');"></div>
+                    </div>
+                </div>
+                <h3>IT Software</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, repudiandae.
+                </p>
+            </div>
+        </div>
+        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+            <div class="it_card">
+                <div class="it_card_img_uper">
+                    <div class="it_card_img">
+                        <div class="it_card_img_inner" style="background-image: url('img/it3.png');"></div>
+                    </div>
+                </div>
+                <h3>IT Network</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, repudiandae.
+                </p>
+            </div>
+        </div>
+        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+            <div class="it_card">
+                <div class="it_card_img_uper">
+                    <div class="it_card_img">
+                        <div class="it_card_img_inner" style="background-image: url('img/it4.png');"></div>
+                    </div>
+                </div>
+                <h3>IT Network</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, repudiandae.
+                </p>
+            </div>
+        </div>
+        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+            <div class="it_card">
+                <div class="it_card_img_uper">
+                    <div class="it_card_img">
+                        <div class="it_card_img_inner" style="background-image: url('img/it5.png');"></div>
+                    </div>
+                </div>
+                <h3>Refurbished</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, repudiandae.
+                </p>
+            </div>
+        </div>
+        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+            <div class="it_card">
+                <div class="it_card_img_uper">
+                    <div class="it_card_img">
+                        <div class="it_card_img_inner" style="background-image: url('img/it6.png');"></div>
+                    </div>
+                </div>
+                <h3>Industrial Spares</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, repudiandae.
+                </p>
+            </div>
+        </div>
+        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+            <div class="it_card">
+                <div class="it_card_img_uper">
+                    <div class="it_card_img">
+                        <div class="it_card_img_inner" style="background-image: url('img/it7.png');"></div>
+                    </div>
+                </div>
+                <h3>Stationery &amp; Housekeeping</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, repudiandae.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- IT and Non-IT Supplies end -->
 <?php include 'footer.php'; ?>

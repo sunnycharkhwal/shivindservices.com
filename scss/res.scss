@@ -1,6 +1,14 @@
 @import "--var.scss";
 @import "--mixing.scss";
 @media (max-width: 576px) {
+  .it_card {
+    p {
+      font-size: 14px;
+    }
+  }
+  .section_mt {
+    margin-top: 2rem;
+  }
   .services_card_div {
     height: 7rem;
     border-color: $c3;
@@ -126,6 +134,14 @@
   }
 }
 @media (min-width: 768px) {
+  .it_card {
+    h3 {
+      font-size: 14px;
+    }
+    p {
+      font-size: 12px;
+    }
+  }
   .index_about_div {
     p {
       font-size: 15px;
@@ -241,6 +257,14 @@
   }
 }
 @media (min-width: 1024px) {
+  .it_card {
+    h3 {
+      font-size: 14px;
+    }
+    p {
+      font-size: 12px;
+    }
+  }
   .services_card_div {
     height: 13rem;
     .services_card_div_img {
@@ -327,6 +351,14 @@
   }
 }
 @media (min-width: 1440px) {
+  .it_card {
+    h3 {
+      font-size: 20px;
+    }
+    p {
+      font-size: 14px;
+    }
+  }
   .services_card_div {
     height: 16rem;
     .services_card_div_img {

@@ -1,4 +1,10 @@
 @media (max-width: 576px) {
+  .it_card p {
+    font-size: 14px;
+  }
+  .section_mt {
+    margin-top: 2rem;
+  }
   .services_card_div {
     height: 7rem;
     border-color: #00c6ff;
@@ -114,6 +120,12 @@
 }
 
 @media (min-width: 768px) {
+  .it_card h3 {
+    font-size: 14px;
+  }
+  .it_card p {
+    font-size: 12px;
+  }
   .index_about_div p {
     font-size: 15px;
     padding: 0 0;
@@ -228,6 +240,12 @@
 }
 
 @media (min-width: 1024px) {
+  .it_card h3 {
+    font-size: 14px;
+  }
+  .it_card p {
+    font-size: 12px;
+  }
   .services_card_div {
     height: 13rem;
   }
@@ -305,6 +323,12 @@
 }
 
 @media (min-width: 1440px) {
+  .it_card h3 {
+    font-size: 20px;
+  }
+  .it_card p {
+    font-size: 14px;
+  }
   .services_card_div {
     height: 16rem;
   }
