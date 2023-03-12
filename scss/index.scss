@@ -7,6 +7,9 @@
   box-sizing: border-box;
   font-family: "Raleway", sans-serif;
 }
+html {
+  scroll-behavior: smooth;
+}
 ul {
   list-style-type: none !important;
 }
@@ -415,7 +418,7 @@ body.offcanvas-active {
 
 // slider end
 .section_mt {
-  margin-top: 2rem;
+  margin-top: 3.5rem;
 }
 .section_title_div {
   text-align: center;
@@ -441,3 +444,41 @@ body.offcanvas-active {
   }
 }
 // index about end
+// Services card
+.services_card_div {
+  height: 16rem;
+  cursor: pointer;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+  background-color: white;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  transition: 1s ease-in;
+  border-bottom: 4px solid transparent;
+  &:hover {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-color: $c3;
+  }
+  .services_card_div_img {
+    @include bg_img;
+    width: 5rem;
+    height: 5rem;
+    margin: auto;
+  }
+  h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 0;
+    color: $c1;
+  }
+  p {
+    margin-bottom: 0;
+    margin-top: 10px;
+    font-size: 13px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: $text;
+  }
+}
+// Services card end

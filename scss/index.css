@@ -7,6 +7,10 @@
   font-family: "Raleway", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 ul {
   list-style-type: none !important;
 }
@@ -518,7 +522,7 @@ body.offcanvas-active {
 
 /* /5 */
 .section_mt {
-  margin-top: 2rem;
+  margin-top: 3.5rem;
 }
 
 .section_title_div {
@@ -543,5 +547,51 @@ body.offcanvas-active {
   margin-bottom: 0;
   padding: 0 12rem;
   text-align: center;
+}
+
+.services_card_div {
+  height: 16rem;
+  cursor: pointer;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+  background-color: white;
+  -webkit-box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+          box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  -webkit-transition: 1s ease-in;
+  transition: 1s ease-in;
+  border-bottom: 4px solid transparent;
+}
+
+.services_card_div:hover {
+  -webkit-box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+          box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-color: #00c6ff;
+}
+
+.services_card_div .services_card_div_img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 5rem;
+  height: 5rem;
+  margin: auto;
+}
+
+.services_card_div h3 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 15px;
+  margin-bottom: 0;
+  color: #87c332;
+}
+
+.services_card_div p {
+  margin-bottom: 0;
+  margin-top: 10px;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: #666;
 }
 /*# sourceMappingURL=index.css.map */
