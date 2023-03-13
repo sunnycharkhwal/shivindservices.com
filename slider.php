@@ -12,7 +12,7 @@
                 <a href="#" class="btn let_talk_btn">read more</a>
             </div>
         </div>
-        <img src="img/slider1.png" class="slider_img">
+        <img src="img/slider1.webp" class="slider_img">
     </div>
 
     <div class="myslide my_slider2">
@@ -28,7 +28,7 @@
                 <a href="#" class="btn let_talk_btn">read more</a>
             </div>
         </div>
-        <img src="img/slider2.png" class="slider_img">
+        <img src="img/slider2.webp" class="slider_img">
     </div>
     <div class="myslide my_slider2">
         <div class="my_slider2_text_div ">
@@ -45,7 +45,7 @@
                 <a href="#" class="btn let_talk_btn">read more</a>
             </div>
         </div>
-        <img src="img/slider3.png" class="slider_img">
+        <img src="img/slider3.webp" class="slider_img">
     </div>
     <div class="myslide my_slider2">
         <div class="my_slider2_text_div ">
@@ -60,7 +60,7 @@
                 <a href="#" class="btn let_talk_btn">read more</a>
             </div>
         </div>
-        <img src="img/slider4.jpg" class="slider_img">
+        <img src="img/slider4.webp" class="slider_img">
     </div>
 
 
