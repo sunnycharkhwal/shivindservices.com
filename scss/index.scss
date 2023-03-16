@@ -484,6 +484,7 @@ body.offcanvas-active {
 // Services card end
 // IT and Non-IT Supplies
 .it_card {
+  position: relative;
   cursor: pointer;
   text-transform: capitalize;
   text-align: center;
@@ -526,6 +527,46 @@ body.offcanvas-active {
     width: 2.5rem;
     height: 2.5rem;
     margin: auto;
+  }
+}
+.it_card_img_inner2 {
+  position: absolute;
+  top: -34px;
+  left: 7rem;
+}
+.it_card2 {
+  background-color: white;
+  height: 13rem;
+  h3 {
+    margin-top: 3.5rem;
+    margin-bottom: 15px;
+    font-size: 25px !important;
+  }
+  p {
+    margin-top: 0;
+  }
+  .it_card_img {
+    width: 85px;
+    height: 85px;
+  }
+  .it_card_img_inner2 {
+    background: linear-gradient(
+      90deg,
+      rgba(0, 15, 36, 1) 0%,
+      rgba(15, 147, 232, 1) 0%,
+      rgba(0, 212, 232, 1) 0%,
+      rgba(0, 255, 80, 1) 98%,
+      rgba(0, 255, 25, 1) 100%,
+      rgba(0, 255, 106, 1) 100%
+    );
+  }
+}
+.Professional_sction {
+  background-color: #f2f3f9;
+  padding: 5rem 4rem;
+  padding-top: 33px;
+  .section_title_div {
+    margin-bottom: 4rem;
   }
 }
 // IT and Non-IT Supplies end

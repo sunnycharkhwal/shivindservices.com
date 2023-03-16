@@ -59,7 +59,7 @@
 </section>
 <!-- Services card end -->
 <!-- IT and Non-IT Supplies -->
-<section class="container section_mt  mb-5">
+<section class="container section_mt">
     <div class="section_title_div">
         <h3>IT and Non-IT <span>Non-IT</span> Supplies</h3>
     </div>
@@ -158,4 +158,27 @@
     </div>
 </section>
 <!-- IT and Non-IT Supplies end -->
+<!-- Professional Consultancy Services -->
+<section class="Professional_sction section_mt  mb-5">
+    <div class="section_title_div">
+        <h3>Professional Consultancy<span> Services</span></h3>
+    </div>
+    <div class="row">
+        <div class="col-3">
+            <div class="it_card it_card2">
+                <div class="it_card_img_uper">
+                    <div class="it_card_img it_card_img_inner2">
+                        <div class="it_card_img_inner " style="background-image: url('img/it1.png');">
+                        </div>
+                    </div>
+                </div>
+                <h3>IT Hardware</h3>
+                <p>
+                    The argument in favor of using filler text goes some labore et dolore magna aliqua consectetur.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Professional Consultancy Services end -->
 <?php include 'footer.php'; ?>
