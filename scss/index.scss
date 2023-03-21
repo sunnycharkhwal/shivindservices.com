@@ -537,28 +537,22 @@ body.offcanvas-active {
 .it_card2 {
   background-color: white;
   height: 13rem;
+  margin-top: 4.5rem;
   h3 {
     margin-top: 3.5rem;
     margin-bottom: 15px;
-    font-size: 25px !important;
+    font-size: 16px !important;
   }
   p {
     margin-top: 0;
+    font-size: 14px !important;
   }
   .it_card_img {
     width: 85px;
     height: 85px;
   }
   .it_card_img_inner2 {
-    background: linear-gradient(
-      90deg,
-      rgba(0, 15, 36, 1) 0%,
-      rgba(15, 147, 232, 1) 0%,
-      rgba(0, 212, 232, 1) 0%,
-      rgba(0, 255, 80, 1) 98%,
-      rgba(0, 255, 25, 1) 100%,
-      rgba(0, 255, 106, 1) 100%
-    );
+    background-image: linear-gradient(to left, #45a401 0%, #9ee213 100%);
   }
 }
 .Professional_sction {
@@ -566,7 +560,378 @@ body.offcanvas-active {
   padding: 5rem 4rem;
   padding-top: 33px;
   .section_title_div {
-    margin-bottom: 4rem;
+    margin-bottom: 0rem;
   }
 }
 // IT and Non-IT Supplies end
+// Electric Vehicle Charging Solution
+.ev_card {
+  // box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  @include b1;
+  width: 34rem;
+  border-radius: 10px;
+  .ev_card_img {
+    @include bg_img;
+    height: 23rem;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  p {
+    padding: 1rem;
+    padding-top: 0;
+    text-transform: capitalize;
+    font-size: 15px;
+  }
+}
+.ev_card_title {
+  padding: 1rem;
+  padding-bottom: 0;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-bottom: 10px;
+  img {
+    @include bg_img;
+    width: 3rem;
+    height: 3rem;
+  }
+  h3 {
+    margin: 0;
+    margin-left: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: $c1;
+  }
+}
+.ev1 {
+  display: flex;
+  justify-content: center;
+}
+.ev2 {
+  margin-top: 4rem;
+}
+.ev_title {
+  margin-bottom: 3rem;
+}
+// Electric Vehicle Charging Solution end
+// mobile app
+.mobile_app_div {
+  @include bg;
+  padding: 2rem 5rem;
+  img {
+    width: 100%;
+    height: 22rem;
+    @include bg_img;
+  }
+}
+.mobile_app_download_app_top {
+  background: white;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 6px;
+  color: black;
+  img {
+    width: 35px;
+    height: 35px;
+    @include bg_img;
+  }
+}
+.mobile_app_download_app {
+  display: flex;
+  align-items: center;
+
+  .inner {
+    margin-left: 10px;
+
+    p {
+      margin-bottom: -5px;
+      font-size: 15px;
+      text-transform: capitalize;
+      font-weight: 600;
+    }
+    small {
+      font-size: 12px;
+      font-weight: 400;
+      text-transform: capitalize;
+    }
+  }
+}
+.mobile_app_download_top {
+  display: flex;
+  align-items: center;
+}
+.mobile_app_download_top_inner {
+  small {
+    font-size: 15px;
+    color: white;
+    font-weight: 600;
+  }
+  h3 {
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #2f6a36;
+    span {
+      color: white;
+    }
+  }
+  p {
+    font-size: 15px;
+    color: black;
+    font-weight: 500;
+    text-transform: capitalize;
+  }
+}
+
+// mobile app end
+// footer
+.footer {
+  background-color: $c2;
+  color: white;
+  padding: 4rem 2rem;
+  padding-bottom: 1rem;
+}
+.footer_link {
+  a {
+    font-weight: 550;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: white;
+    transition: all 0.3s;
+    &:hover {
+      color: $c1;
+    }
+  }
+}
+.footer_link_inner {
+  margin-bottom: 10px;
+}
+.footer_text_div {
+  p {
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 0;
+  }
+}
+.footer_contact_div {
+  text-align: end;
+  .number {
+    font-size: 30px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    font-family: fantasy;
+    color: white;
+    span {
+      color: $c1;
+    }
+  }
+  .email {
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+    letter-spacing: 1px;
+  }
+  p {
+    font-size: 15px;
+    font-weight: 550;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
+}
+.footer_copy {
+  p {
+    margin-bottom: 0;
+    text-align: center;
+  }
+}
+.footer_copy_top {
+  margin-top: 5rem;
+}
+.footer_logo {
+  width: 9rem;
+}
+// footer end
+// recognized_img_div
+.recognized_img_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  img {
+    width: 12rem;
+  }
+}
+.recognized_img_div2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img {
+    width: 15rem;
+    margin-left: 18px;
+  }
+}
+.float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 22px;
+  right: 31px;
+  background-color: $c1;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation-name: zoom-in-zoom-out;
+  animation-duration: 1s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+.my-float {
+  font-size: 27px;
+  color: white;
+}
+@keyframes zoom-in-zoom-out {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
+
+// recognized_img_div end
+
+.float2 {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 22px;
+  left: 31px;
+  background-color: $c1;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+}
+// Integrated Facility
+.integrated_facility_img_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img {
+    height: 30rem;
+    width: 30rem;
+    margin: auto;
+  }
+}
+.integrated_facility_div {
+  position: relative;
+}
+
+.integrated_facility_text_div {
+  width: 20%;
+  text-transform: capitalize;
+  h3 {
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 700;
+    color: $c1;
+    align-items: center;
+    display: flex;
+
+    span {
+      margin-right: 5px;
+      background: black;
+      border-radius: 100%;
+      display: flex;
+      width: 25px;
+      height: 25px;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-size: 12px;
+      letter-spacing: 1px;
+      font-family: none;
+    }
+  }
+  p {
+    margin-bottom: 0;
+    margin-top: 5px;
+    font-size: 12px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+}
+.point_div {
+  margin-bottom: 7rem;
+}
+.point1 {
+  position: absolute;
+  top: 21px;
+  left: 14rem;
+}
+.point2 {
+  position: absolute;
+  top: 9rem;
+  left: 12rem;
+}
+.point3 {
+  position: absolute;
+  top: 17rem;
+  left: 12rem;
+}
+.point4 {
+  position: absolute;
+  top: 25rem;
+  left: 14rem;
+  span {
+    width: 30px !important;
+    height: 25px !important;
+  }
+}
+.point5 {
+  position: absolute;
+  top: 21px;
+  right: 14rem;
+}
+.point6 {
+  position: absolute;
+  top: 9rem;
+  right: 11rem;
+}
+.point7 {
+  position: absolute;
+  top: 17rem;
+  right: 11rem;
+}
+.point8 {
+  position: absolute;
+  top: 25rem;
+  right: 14rem;
+  span {
+    width: 27px !important;
+    height: 27px !important;
+  }
+}
+.point9 {
+  position: absolute;
+  bottom: -5rem;
+  right: 31rem;
+}
+// Integrated Facility end

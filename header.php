@@ -19,9 +19,10 @@
     <link rel="stylesheet" href="scss/index.css">
     <link rel="stylesheet" href="scss/res.css">
     <!-- my css end-->
-
 </head>
 
 <body>
     <?php include 'topNav.php'; ?>
     <?php include 'navbar.php'; ?>
+    <button onclick="topFunction()" id="myBtn" class="float2" title="Go to top"><i
+            class="fas fa-chevron-up"></i></button>

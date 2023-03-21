@@ -25,13 +25,11 @@
                 class="<?php echo basename($_SERVER['PHP_SELF']) == 'contactus.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
                 <a class="nav-link" href="#">contact us </a>
             </li>
-            <li
-                class="<?php echo basename($_SERVER['PHP_SELF']) == 'products_services.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
-                <a class="nav-link" href="#">Products </a>
+            <li class="nav-item my_nav_item">
+                <a class="nav-link" href="#EVCharging">Products </a>
             </li>
-            <li
-                class="<?php echo basename($_SERVER['PHP_SELF']) == 'professional_services.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
-                <a class="nav-link" href="#">Professional Services</a>
+            <li class="nav-item my_nav_item">
+                <a class="nav-link" href="#consultancy">Professional Services</a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> Electric Charging Solution

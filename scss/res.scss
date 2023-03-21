@@ -1,6 +1,102 @@
 @import "--var.scss";
 @import "--mixing.scss";
 @media (max-width: 576px) {
+  .recognized_img_div2 {
+    display: block;
+    text-align: center;
+    margin-top: 0;
+
+    img {
+      width: 9rem;
+      margin-left: 0;
+    }
+  }
+  .recognized_img_div {
+    display: block;
+    text-align: center;
+    margin-top: 0;
+    img {
+      width: 8rem;
+    }
+  }
+  .footer_copy {
+    p {
+      font-size: 13px;
+    }
+  }
+  .footer_copy_top {
+    margin-top: 0rem;
+  }
+  .footer_contact_div {
+    text-align: start;
+  }
+  .mobile_app_download_app {
+    justify-content: center;
+  }
+  .mobile_app_download_app_top {
+    margin-top: 10px;
+    // display: block;
+    width: 11rem;
+  }
+  .mobile_app_download_top_inner {
+    h3 {
+      font-size: 24px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 12px;
+    }
+  }
+  .mobile_app_div {
+    padding: 1rem 1rem;
+    text-align: center;
+  }
+  .mobile_right_img {
+    display: none;
+  }
+  .ev2 {
+    margin-top: 0;
+  }
+  .ev_card_title {
+    h3 {
+      font-size: 23px;
+    }
+    p {
+      text-align: justify;
+    }
+  }
+  .ev_card {
+    width: 100%;
+    margin-bottom: 1.5rem;
+    .ev_card_img {
+      height: 17rem;
+      width: 100%;
+    }
+  }
+  .Professional_sction {
+    padding: 2rem 1rem;
+    .section_title_div {
+      margin-bottom: 0rem;
+    }
+  }
+  .it_card2 {
+    height: auto;
+    margin-top: 1.5rem;
+    h3 {
+      margin-top: 0;
+    }
+    .it_card_img {
+      width: 80px;
+      height: 80px;
+    }
+  }
+  .it_card_img_inner2 {
+    position: relative;
+    left: unset;
+    top: unset;
+    margin-bottom: 10px;
+  }
   .it_card {
     p {
       font-size: 14px;
@@ -26,6 +122,7 @@
   .section_title_div {
     h3 {
       font-size: 22px;
+      line-height: 32px;
     }
   }
   .index_about_div {
@@ -134,6 +231,77 @@
   }
 }
 @media (min-width: 768px) {
+  .point1 {
+    top: 0;
+    left: 0;
+  }
+  .point2 {
+    top: 0;
+    left: 15rem;
+  }
+  .point3 {
+    top: 0;
+    left: 29rem;
+  }
+  .point4 {
+    top: 0;
+    left: 0;
+  }
+  .point5 {
+    top: 0;
+    left: 0;
+  }
+  .point6 {
+    top: 0;
+    left: 0;
+  }
+  .point7 {
+    top: 0;
+    left: 0;
+  }
+  .point8 {
+    top: 0;
+    left: 0;
+  }
+  .point9 {
+    top: 0;
+    left: 0;
+  }
+  .integrated_facility_text_div {
+    width: 32%;
+  }
+  .integrated_facility_section {
+    height: 33rem;
+  }
+  .integrated_facility_img_div {
+    img {
+      display: none;
+    }
+  }
+  .recognized_img_div2 {
+    img {
+      width: 11rem;
+      margin-left: 0;
+    }
+  }
+  .recognized_img_div {
+    img {
+      width: 8rem;
+    }
+  }
+  .mobile_right_img {
+    display: none;
+  }
+  .ev2 {
+    margin-top: 2rem;
+  }
+  .ev_card {
+    width: 100%;
+    .ev_card_img {
+      height: 17rem;
+      width: 100%;
+    }
+  }
   .it_card {
     h3 {
       font-size: 14px;
@@ -257,6 +425,77 @@
   }
 }
 @media (min-width: 1024px) {
+  .integrated_facility_section {
+    height: unset;
+  }
+  .integrated_facility_img_div {
+    img {
+      display: block;
+    }
+  }
+  .point1 {
+    left: 8rem;
+  }
+  .point2 {
+    left: 6rem;
+  }
+  .point3 {
+    left: 6rem;
+  }
+  .point4 {
+    left: 8rem;
+  }
+  .point5 {
+    right: 8rem;
+  }
+  .point6 {
+    right: 6rem;
+  }
+  .point7 {
+    right: 6rem;
+  }
+  .point8 {
+    right: 8rem;
+  }
+  .point9 {
+    bottom: -6rem;
+    right: 22rem;
+  }
+  .integrated_facility_text_div {
+    width: 23%;
+  }
+  .recognized_img_div2 {
+    img {
+      width: 15rem;
+      margin-left: 18px;
+    }
+  }
+  .recognized_img_div {
+    img {
+      width: 12rem;
+    }
+  }
+  .footer_logo {
+    width: 9rem;
+  }
+  .mobile_right_img {
+    display: block;
+  }
+  .ev2 {
+    margin-top: 2rem;
+  }
+  .ev_card {
+    width: 100%;
+    .ev_card_img {
+      height: 23rem;
+      width: 100%;
+    }
+  }
+  .it_card_img_inner2 {
+    position: absolute;
+    top: -34px;
+    left: 6rem;
+  }
   .it_card {
     h3 {
       font-size: 14px;
@@ -351,6 +590,73 @@
   }
 }
 @media (min-width: 1440px) {
+  .point1 {
+    position: absolute;
+    top: 21px;
+    left: 14rem;
+  }
+  .point2 {
+    position: absolute;
+    top: 9rem;
+    left: 12rem;
+  }
+  .point3 {
+    position: absolute;
+    top: 17rem;
+    left: 12rem;
+  }
+  .point4 {
+    position: absolute;
+    top: 25rem;
+    left: 14rem;
+    span {
+      width: 30px !important;
+      height: 25px !important;
+    }
+  }
+  .point5 {
+    position: absolute;
+    top: 21px;
+    right: 14rem;
+  }
+  .point6 {
+    position: absolute;
+    top: 9rem;
+    right: 11rem;
+  }
+  .point7 {
+    position: absolute;
+    top: 17rem;
+    right: 11rem;
+  }
+  .point8 {
+    position: absolute;
+    top: 25rem;
+    right: 14rem;
+    span {
+      width: 27px !important;
+      height: 27px !important;
+    }
+  }
+  .point9 {
+    position: absolute;
+    bottom: -5rem;
+    right: 31rem;
+  }
+  .integrated_facility_text_div {
+    width: 20%;
+  }
+  .ev2 {
+    margin-top: 4rem;
+  }
+  .ev_card {
+    width: 34rem;
+  }
+  .it_card_img_inner2 {
+    position: absolute;
+    top: -34px;
+    left: 7rem;
+  }
   .it_card {
     h3 {
       font-size: 20px;
