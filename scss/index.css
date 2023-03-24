@@ -19,6 +19,10 @@ a {
   text-decoration: none !important;
 }
 
+.text_black {
+  color: #000;
+}
+
 .btn.focus,
 .btn:focus {
   outline: 0;
@@ -36,6 +40,10 @@ a {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+.my_nav_item_drop a::before {
+  display: none !important;
 }
 
 body.offcanvas-active {
@@ -607,6 +615,7 @@ body.offcanvas-active {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   background-color: #f7f8f9;
+  height: 13rem;
 }
 
 .it_card:hover {
@@ -1201,5 +1210,68 @@ body.offcanvas-active {
   position: absolute;
   bottom: -5rem;
   right: 31rem;
+}
+
+.pr_img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 43rem !important;
+  height: 31rem;
+  margin: auto;
+}
+
+.electric_vehicles_top_div {
+  position: relative;
+}
+
+.electric_vehicles_top_div .owl-prev {
+  position: absolute;
+  top: 13rem;
+  left: 4rem;
+  font-size: 25px !important;
+  background: #87c332 !important;
+  color: white !important;
+  width: 2rem;
+  height: 2rem;
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 100% !important;
+}
+
+.electric_vehicles_top_div .owl-prev span {
+  margin-top: -2px;
+}
+
+.electric_vehicles_top_div .owl-next {
+  position: absolute;
+  top: 13rem;
+  right: 4rem;
+  border-radius: 100% !important;
+  font-size: 25px !important;
+  background: #87c332 !important;
+  color: white !important;
+  width: 2rem;
+  height: 2rem;
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.electric_vehicles_top_div .owl-next span {
+  margin-top: -2px;
 }
 /*# sourceMappingURL=index.css.map */

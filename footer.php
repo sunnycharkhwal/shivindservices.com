@@ -4,11 +4,11 @@
         <h3>Recognized<span> by</span></h3>
     </div>
     <div class="recognized_img_div">
-        <img src="img/r1.png" alt="icon">
-        <img src="img/r2.png" alt="icon">
-        <img src="img/r3.png" alt="icon">
-        <img src="img/r4.png" alt="icon">
-        <img src="img/r5.png" alt="icon">
+        <img src="img/r1.png" alt="icon" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+        <img src="img/r2.png" alt="icon" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+        <img src="img/r3.png" alt="icon" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+        <img src="img/r4.png" alt="icon" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+        <img src="img/r5.png" alt="icon" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
     </div>
 </section>
 <!-- recognized_img_div -->
@@ -18,10 +18,10 @@
         <h3>In Synergy with <span> Government Initiatives</span></h3>
     </div>
     <div class="recognized_img_div2">
-        <img src="img/g1.png" alt="icon">
-        <img src="img/g2.png" alt="icon">
-        <img src="img/g3.png" alt="icon">
-        <img src="img/g4.png" alt="icon">
+        <img src="img/g1.png" alt="icon" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+        <img src="img/g2.png" alt="icon" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+        <img src="img/g3.png" alt="icon" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+        <img src="img/g4.png" alt="icon" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
     </div>
 </section>
 <!-- recognized_img_div -->
@@ -69,14 +69,25 @@
         </div>
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-5 col-sm-12 col-12">
             <div class="footer_contact_div">
-                <a class="number" href="tel:+4733378901"> <span>+91</span> 1234567890</a>
+                <a class="number" href="tel:+918155040101"> <span>+91</span> 8155040101</a>
+                <br>
+                <a class="number" href="tel:+918155040202"> <span>+91</span> 8155040202</a>
+
                 <div>
-                    <a class="email" href="mailto:support@vehica.com">
-                        support@vehica.com </a>
-                </div>
-                <p>West 12th Street
+                    <a class="email" href="Sales_gujarat@efill.co.in">
+                        Sales_gujarat@efill.co.in </a>
                     <br>
-                    New York, NY, USA
+                    <a class="email" href="efevgujarat@gmail.com">
+                        efevgujarat@gmail.com</a>
+                    <br>
+                    <a class="email" href="shivindservices@outlook.com">
+                        shivindservices@outlook.com</a>
+                </div>
+                <p>Shiv Industrial Services
+                    <br>
+                    A/20, Kashi Wishweshwar Society Jetalpur Road, Alkapuri,
+                    <br>
+                    Vadodara – 390007 (Gujarat)
                 </p>
             </div>
         </div>
@@ -128,6 +139,34 @@
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
     }
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
+    integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+    integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    $('.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 10,
+        nav: true,
+        autoplay: true,
+        responsive: {
+            0: {
+                items: 1,
+            },
+            600: {
+                items: 1,
+            },
+            1024: {
+                items: 1,
+            },
+            1440: {
+                items: 1,
+            },
+        }
+    })
 </script>
 <!-- script end -->
 </body>

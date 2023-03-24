@@ -1,6 +1,42 @@
 @import "--var.scss";
 @import "--mixing.scss";
+@media (max-width: 320px) {
+  .electric_vehicles_top_div {
+    .owl-prev {
+      top: 7rem !important;
+      left: 1rem;
+    }
+    .owl-next {
+      top: 7rem !important;
+      right: 1rem;
+    }
+  }
+}
 @media (max-width: 576px) {
+  .electric_vehicles_top_div {
+    .owl-prev {
+      top: 9rem;
+      left: 1rem;
+    }
+    .owl-next {
+      top: 9rem;
+      right: 1rem;
+    }
+  }
+  .pr_img {
+    width: 100% !important;
+    height: auto;
+  }
+  .it_card {
+    height: auto;
+  }
+  .point_div {
+    margin-bottom: 0rem;
+  }
+  .integrated_facility_text_div {
+    width: 100%;
+    margin-top: 1rem;
+  }
   .recognized_img_div2 {
     display: block;
     text-align: center;
@@ -231,52 +267,11 @@
   }
 }
 @media (min-width: 768px) {
-  .point1 {
-    top: 0;
-    left: 0;
-  }
-  .point2 {
-    top: 0;
-    left: 15rem;
-  }
-  .point3 {
-    top: 0;
-    left: 29rem;
-  }
-  .point4 {
-    top: 0;
-    left: 0;
-  }
-  .point5 {
-    top: 0;
-    left: 0;
-  }
-  .point6 {
-    top: 0;
-    left: 0;
-  }
-  .point7 {
-    top: 0;
-    left: 0;
-  }
-  .point8 {
-    top: 0;
-    left: 0;
-  }
-  .point9 {
-    top: 0;
-    left: 0;
-  }
   .integrated_facility_text_div {
-    width: 32%;
+    width: 100%;
   }
-  .integrated_facility_section {
-    height: 33rem;
-  }
-  .integrated_facility_img_div {
-    img {
-      display: none;
-    }
+  .point_div {
+    margin-bottom: 0rem;
   }
   .recognized_img_div2 {
     img {
@@ -425,6 +420,12 @@
   }
 }
 @media (min-width: 1024px) {
+  .integrated_facility_text_div {
+    width: 20%;
+  }
+  .point_div {
+    margin-bottom: 7rem;
+  }
   .integrated_facility_section {
     height: unset;
   }

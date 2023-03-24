@@ -16,7 +16,9 @@ ul {
 a {
   text-decoration: none !important;
 }
-
+.text_black {
+  color: #000;
+}
 .btn.focus,
 .btn:focus {
   outline: 0;
@@ -28,6 +30,13 @@ a {
   align-items: center;
 }
 // nav
+.my_nav_item_drop {
+  a {
+    &::before {
+      display: none !important;
+    }
+  }
+}
 body.offcanvas-active {
   overflow: hidden;
 }
@@ -493,6 +502,7 @@ body.offcanvas-active {
   border-radius: 10px;
   transition: all 0.3s;
   background-color: #f7f8f9;
+  height: 13rem;
   &:hover {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
@@ -935,3 +945,48 @@ body.offcanvas-active {
   right: 31rem;
 }
 // Integrated Facility end
+// Electric Vehicles
+.pr_img {
+  @include bg_img;
+  width: 43rem !important;
+  height: 31rem;
+  margin: auto;
+}
+.electric_vehicles_top_div {
+  position: relative;
+  .owl-prev {
+    position: absolute;
+    top: 13rem;
+    left: 4rem;
+    font-size: 25px !important;
+    background: #87c332 !important;
+    color: white !important;
+    width: 2rem;
+    height: 2rem;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100% !important;
+    span {
+      margin-top: -2px;
+    }
+  }
+  .owl-next {
+    position: absolute;
+    top: 13rem;
+    right: 4rem;
+    border-radius: 100% !important;
+    font-size: 25px !important;
+    background: #87c332 !important;
+    color: white !important;
+    width: 2rem;
+    height: 2rem;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    span {
+      margin-top: -2px;
+    }
+  }
+}
+// Electric Vehicles

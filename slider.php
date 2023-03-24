@@ -37,9 +37,10 @@
 
                 <small># WE PROVIDE IT SERVICES
                 </small>
-                <h3>We Provide <span>IT</span> &amp; Non-IT Supplies
+                <h3 class="text_black">We Provide <span>IT</span> &amp; Non-IT Supplies
                 </h3>
-                <p>Our purpose is to build solutions that remove barriers preventing people from doing their best work,
+                <p class="text_black">Our purpose is to build solutions that remove barriers preventing people from
+                    doing their best work,
                     and this is at the heart.
                 </p>
                 <a href="#" class="btn let_talk_btn">read more</a>

@@ -26,18 +26,32 @@
                 <a class="nav-link" href="#">contact us </a>
             </li>
             <li class="nav-item my_nav_item">
-                <a class="nav-link" href="#EVCharging">Products </a>
+                <a class="nav-link" href="#Products">Products</a>
             </li>
             <li class="nav-item my_nav_item">
-                <a class="nav-link" href="#consultancy">Professional Services</a>
+                <a class="nav-link" href="#EVCharging">Electric Vehicles</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Services
+                </a>
+                <ul class="dropdown-menu fade-up">
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#ifm">Integrated Facility
+                            Management
+                            Services</a></li>
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#consultancy">Professional
+                            Consultancy
+                            Services</a></li>
+                </ul>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> Electric Charging Solution
                 </a>
                 <ul class="dropdown-menu fade-up">
-                    <li class="my_nav_item"><a class="dropdown-item" href="#"> EV-Chargers</a></li>
-                    <li class="my_nav_item"><a class="dropdown-item" href="#">EV-Charger-Franchise</a></li>
-                    <li class="my_nav_item"><a class="dropdown-item" href="#"> Smart IOT & Telematics </a></li>
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#"> EV-Chargers</a></li>
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#">EV-Charger-Franchise</a>
+                    </li>
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#"> Smart IOT & Telematics
+                        </a></li>
                 </ul>
             </li>
 
