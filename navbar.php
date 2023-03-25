@@ -8,37 +8,39 @@
         <div class="offcanvas-header">
             <button class="btn-close float-end"></button>
         </div>
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.php">
             <img class="logo" src="img/logo.webp" alt="logo">
         </a>
 
         <ul class="navbar-nav" id="myDIV">
             <li
                 class="<?php echo basename($_SERVER['PHP_SELF']) == 'index.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
-                <a class="nav-link" href="#">home </a>
+                <a class="nav-link" href="index.php">home </a>
             </li>
             <li
                 class="<?php echo basename($_SERVER['PHP_SELF']) == 'aboutus.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
-                <a class="nav-link" href="#">about us </a>
+                <a class="nav-link" href="aboutus.php">about us </a>
             </li>
             <li
                 class="<?php echo basename($_SERVER['PHP_SELF']) == 'contactus.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
-                <a class="nav-link" href="#">contact us </a>
+                <a class="nav-link" href="contactus.php">contact us </a>
             </li>
             <li class="nav-item my_nav_item">
-                <a class="nav-link" href="#Products">Products</a>
+                <a class="nav-link" href="index.php#Products">Products</a>
             </li>
             <li class="nav-item my_nav_item">
-                <a class="nav-link" href="#EVCharging">Electric Vehicles</a>
+                <a class="nav-link" href="index.php#EVCharging">Electric Vehicles</a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Services
                 </a>
                 <ul class="dropdown-menu fade-up">
-                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#ifm">Integrated Facility
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="index.php#ifm">Integrated
+                            Facility
                             Management
                             Services</a></li>
-                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#consultancy">Professional
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item"
+                            href="index.php#consultancy">Professional
                             Consultancy
                             Services</a></li>
                 </ul>

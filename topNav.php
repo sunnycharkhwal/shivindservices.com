@@ -2,7 +2,8 @@
     <div class="row">
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-8 col-sm-12 col-12">
             <div class="top_nav_main_div_left">
-                <a href="mailto: abc@example.com"><i class="far fa-envelope"></i> <span>abc@example.com</span></a>
+                <a href="mailto: shivindservices@outlook.com"><i class="far fa-envelope"></i>
+                    <span>shivindservices@outlook.com</span></a>
                 <p><i class="far fa-clock"></i> <span>open hours: mon - fri 8:00 <span>am</span> - 6:00 <span>
                             pm</span> </span></p>
             </div>

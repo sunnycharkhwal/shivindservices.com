@@ -79,9 +79,6 @@
                     <br>
                     <a class="email" href="efevgujarat@gmail.com">
                         efevgujarat@gmail.com</a>
-                    <br>
-                    <a class="email" href="shivindservices@outlook.com">
-                        shivindservices@outlook.com</a>
                 </div>
                 <p>Shiv Industrial Services
                     <br>
@@ -107,38 +104,38 @@
 <!-- script -->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>
-    AOS.init({
-        once: true,
-        disable: false,
-    });
+AOS.init({
+    once: true,
+    disable: false,
+});
 </script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
-    </script>
+</script>
 <script src="my.js"></script>
 <script src="tilt.js"></script>
 <script>
-    // Get the button
-    let mybutton = document.getElementById("myBtn");
+// Get the button
+let mybutton = document.getElementById("myBtn");
 
-    // When the user scrolls down 20px from the top of the document, show the button
-    window.onscroll = function () {
-        scrollFunction()
-    };
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {
+    scrollFunction()
+};
 
-    function scrollFunction() {
-        if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
-            mybutton.style.display = "block";
-        } else {
-            mybutton.style.display = "none";
-        }
+function scrollFunction() {
+    if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+        mybutton.style.display = "block";
+    } else {
+        mybutton.style.display = "none";
     }
+}
 
-    // When the user clicks on the button, scroll to the top of the document
-    function topFunction() {
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-    }
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
     integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
@@ -147,26 +144,26 @@
     integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
-    $('.owl-carousel').owlCarousel({
-        loop: true,
-        margin: 10,
-        nav: true,
-        autoplay: true,
-        responsive: {
-            0: {
-                items: 1,
-            },
-            600: {
-                items: 1,
-            },
-            1024: {
-                items: 1,
-            },
-            1440: {
-                items: 1,
-            },
-        }
-    })
+$('.owl-carousel').owlCarousel({
+    loop: true,
+    margin: 10,
+    nav: true,
+    autoplay: true,
+    responsive: {
+        0: {
+            items: 1,
+        },
+        600: {
+            items: 1,
+        },
+        1024: {
+            items: 1,
+        },
+        1440: {
+            items: 1,
+        },
+    }
+})
 </script>
 <!-- script end -->
 </body>

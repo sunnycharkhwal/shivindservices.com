@@ -10,6 +10,46 @@
 }
 
 @media (max-width: 576px) {
+  .section_title_contact {
+    text-align: center;
+  }
+  .section_title_contact h3 {
+    margin-bottom: 0;
+    font-size: 20px !important;
+  }
+  .section_title_contact p {
+    font-size: 12px;
+  }
+  .section_title_contact2 {
+    text-align: center;
+  }
+  .section_title_contact2 h3 {
+    margin-bottom: 0;
+    font-size: 20px !important;
+  }
+  .section_title_contact2 p {
+    font-size: 12px;
+  }
+  .section_title_contact p {
+    width: 100%;
+  }
+  .section_title_contact_top {
+    display: block;
+    margin-top: 2rem;
+  }
+  .contact_img {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .all_page_top .all_page_top_lay {
+    padding-left: 0rem;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .all_page_top .all_page_top_lay h3 {
+    font-size: 40px;
+  }
   .electric_vehicles_top_div .owl-prev {
     top: 9rem;
     left: 1rem;
@@ -244,6 +284,13 @@
 }
 
 @media (min-width: 768px) {
+  .section_title_contact_top {
+    display: block;
+    margin-top: 2rem;
+  }
+  .all_page_top .all_page_top_lay {
+    padding-left: 5rem;
+  }
   .integrated_facility_text_div {
     width: 100%;
   }
@@ -390,6 +437,21 @@
 }
 
 @media (min-width: 1024px) {
+  .section_title_contact_top {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: unset;
+  }
+  .section_title_contact2 h3 {
+    font-size: 25px;
+  }
+  .section_title_contact h3 {
+    font-size: 25px;
+  }
+  .all_page_top .all_page_top_lay {
+    padding-left: 8rem;
+  }
   .integrated_facility_text_div {
     width: 20%;
   }
@@ -544,6 +606,15 @@
 }
 
 @media (min-width: 1440px) {
+  .section_title_contact2 h3 {
+    font-size: 27px;
+  }
+  .section_title_contact h3 {
+    font-size: 27px;
+  }
+  .all_page_top .all_page_top_lay {
+    padding-left: 13rem;
+  }
   .point1 {
     position: absolute;
     top: 21px;
