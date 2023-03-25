@@ -10,6 +10,10 @@
 }
 
 @media (max-width: 576px) {
+  .section_title_contact p {
+    margin-bottom: 0;
+    width: auto;
+  }
   .section_title_contact {
     text-align: center;
   }
@@ -284,6 +288,10 @@
 }
 
 @media (min-width: 768px) {
+  .section_title_contact p {
+    margin-bottom: 0;
+    width: auto;
+  }
   .section_title_contact_top {
     display: block;
     margin-top: 2rem;
@@ -437,6 +445,10 @@
 }
 
 @media (min-width: 1024px) {
+  .section_title_contact p {
+    margin-bottom: 0;
+    width: auto;
+  }
   .section_title_contact_top {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -606,6 +618,10 @@
 }
 
 @media (min-width: 1440px) {
+  .section_title_contact p {
+    margin-bottom: 0;
+    width: 37rem;
+  }
   .section_title_contact2 h3 {
     font-size: 27px;
   }

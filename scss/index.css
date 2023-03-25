@@ -551,7 +551,6 @@ body.offcanvas-active {
 .index_about_div p {
   font-size: 15px;
   color: #666;
-  text-transform: capitalize;
   margin-bottom: 0;
   padding: 0 12rem;
   text-align: center;
@@ -598,7 +597,6 @@ body.offcanvas-active {
   margin-bottom: 0;
   margin-top: 10px;
   font-size: 13px;
-  text-transform: capitalize;
   font-weight: 500;
   color: #666;
 }
@@ -735,7 +733,6 @@ body.offcanvas-active {
 .ev_card p {
   padding: 1rem;
   padding-top: 0;
-  text-transform: capitalize;
   font-size: 15px;
 }
 
@@ -1140,7 +1137,6 @@ body.offcanvas-active {
   margin-bottom: 0;
   margin-top: 5px;
   font-size: 12px;
-  text-transform: capitalize;
   font-weight: 500;
 }
 
@@ -1390,5 +1386,70 @@ body.offcanvas-active {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+.contact_form_info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.contact_form_info h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: capitalize;
+  color: #87c332;
+}
+
+.contact_form_info p {
+  margin-bottom: 0;
+  font-size: 14px;
+  font-family: "Outfit", sans-serif;
+  color: #666;
+  margin-top: 5px;
+}
+
+.contact_form_info_icon {
+  background-color: #87c332;
+  padding: 2rem;
+  margin-right: 13px;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 3px;
+}
+
+.contact_form_info_icon i {
+  color: white;
+  position: absolute;
+  font-size: 30px;
+}
+
+.contact_form_top_div {
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+dl,
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ol,
+ul {
+  padding-left: 0;
 }
 /*# sourceMappingURL=index.css.map */

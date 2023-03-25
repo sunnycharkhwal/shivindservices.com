@@ -446,7 +446,6 @@ body.offcanvas-active {
   p {
     font-size: 15px;
     color: $text;
-    text-transform: capitalize;
     margin-bottom: 0;
     padding: 0 12rem;
     text-align: center;
@@ -485,7 +484,6 @@ body.offcanvas-active {
     margin-bottom: 0;
     margin-top: 10px;
     font-size: 13px;
-    text-transform: capitalize;
     font-weight: 500;
     color: $text;
   }
@@ -590,7 +588,6 @@ body.offcanvas-active {
   p {
     padding: 1rem;
     padding-top: 0;
-    text-transform: capitalize;
     font-size: 15px;
   }
 }
@@ -884,7 +881,6 @@ body.offcanvas-active {
     margin-bottom: 0;
     margin-top: 5px;
     font-size: 12px;
-    text-transform: capitalize;
     font-weight: 500;
   }
 }
@@ -1076,5 +1072,52 @@ body.offcanvas-active {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.contact_form_info {
+  display: flex;
+  align-items: center;
+  h3 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: $c1;
+  }
+  p {
+    margin-bottom: 0;
+    font-size: 14px;
+    font-family: "Outfit", sans-serif;
+    color: $text;
+    margin-top: 5px;
+  }
+}
+.contact_form_info_icon {
+  background-color: $c1;
+  padding: 2rem;
+  margin-right: 13px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3px;
+  i {
+    color: white;
+    position: absolute;
+    font-size: 30px;
+  }
+}
+.contact_form_top_div {
+  padding: 1rem;
+  border-radius: 10px;
+}
+dl,
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ol,
+ul {
+  padding-left: 0;
 }
 // contact us end

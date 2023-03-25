@@ -20,19 +20,87 @@
 <section class=" container section_mt mb-5">
     <div>
         <div class="row">
-            <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12">
-                <div>
+            <div class="col-xxl-5 col-xl-5 col-lg-6 col-md-12 col-sm-12 col-12">
+                <div class="shadow contact_form_top_div">
                     <div class="section_title_div section_title_contact2">
                         <h3>Get In Touch With Us <span>With Us </span></h3>
                         <p>One of the main areas that I work on with my clients is shedding these non-supportive beliefs
                             and replacing accomplish their desires.</p>
                     </div>
-                    <div class="row g-5">
-                        jf
+                    <div class="row g-3">
+                        <div class="col-12" data-aos="fade-down-right" data-aos-anchor="#example-anchor"
+                            data-aos-offset="500" data-aos-duration="500">
+                            <ul class="contact_form_info">
+                                <li>
+                                    <div class="contact_form_info_icon">
+                                        <i class="fas fa-map-marked-alt"></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3>Address</h3>
+                                    <p>Shiv Industrial Services
+                                        A/20, Kashi Wishweshwar Society Jetalpur Road, Alkapuri,
+                                        Vadodara – 390007 (Gujarat)</p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-12" data-aos="fade-down-right" data-aos-anchor="#example-anchor"
+                            data-aos-offset="500" data-aos-duration="500">
+                            <ul class="contact_form_info">
+                                <li>
+                                    <div class="contact_form_info_icon">
+                                        <i class="fas fa-mobile-alt"></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3>Phone number</h3>
+                                    <p>+91 8155040101
+                                        <br>
+                                        +91 8155040202
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-12" data-aos="fade-down-right" data-aos-anchor="#example-anchor"
+                            data-aos-offset="500" data-aos-duration="500">
+                            <ul class="contact_form_info">
+                                <li>
+                                    <div class="contact_form_info_icon">
+                                        <i class="fas fa-envelope-open-text"></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3>Email Address</h3>
+                                    <p>Sales_gujarat@efill.co.in
+                                        <br>
+                                        efevgujarat@gmail.com
+                                        <br>
+
+                                        shivindservices@outlook.com
+
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-12" data-aos="fade-down-right" data-aos-anchor="#example-anchor"
+                            data-aos-offset="500" data-aos-duration="500">
+                            <ul class="contact_form_info">
+                                <li>
+                                    <div class="contact_form_info_icon">
+                                        <i class="fas fa-headphones-alt"></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <h3>24/7 Support</h3>
+                                    <p>Our Customer Support Team is ready and available to help.
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12 section_title_contact_top">
+            <div class="col-xxl-7 col-xl-7 col-lg-6 col-md-12 col-sm-12 col-12 section_title_contact_top">
                 <div>
                     <div class="section_title_div section_title_contact">
                         <h3>We'd love to <span>hear from you</span></h3>
@@ -41,28 +109,29 @@
                     </div>
 
                     <form class="mt-3">
-                        <div class="mb-3">
-                            <label for="exampleInputEmail1" class="form-label">your name*</label>
+                        <div class="mb-3" data-aos="flip-up" data-aos-easing="linear" data-aos-duration="1500">
+                            <label for=" exampleInputEmail1" class="form-label">your name*</label>
                             <input type="text" class="form-control">
                             <small>error message</small>
                         </div>
-                        <div class="mb-3">
-                            <label for="exampleInputEmail1" class="form-label">Email address*</label>
+                        <div class="mb-3" data-aos="flip-up" data-aos-easing="linear" data-aos-duration="1500">
+                            <label for=" exampleInputEmail1" class="form-label">Email address*</label>
                             <input type="email" class="form-control">
                             <small>error message</small>
                         </div>
-                        <div class="mb-3">
-                            <label class="form-label">phone number*</label>
+                        <div class="mb-3" data-aos="flip-up" data-aos-easing="linear" data-aos-duration="1500">
+                            <label class="form-label">Phone number*</label>
                             <input type="number" class="form-control">
                             <small>error message</small>
                         </div>
-                        <div class="mb-3">
-                            <label class="form-label">Message*</label>
+                        <div class="mb-3" data-aos="flip-up" data-aos-easing="linear" data-aos-duration="1500">
+                            <label class=" form-label">Message*</label>
                             <textarea class="form-control" rows="3"></textarea>
                             <small>error message</small>
                         </div>
-                        <div class=" text-center">
-                            <button type="button" class="btn let_talk_btn" data-bs-toggle="modal"
+                        <div class=" text-center" data-aos="zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300"
+                            data-aos-offset="0">
+                            <button type="button" class="btn let_talk_btn w-50" data-bs-toggle="modal"
                                 data-bs-target="#exampleModal">Submit</button>
                         </div>
                     </form>
