@@ -1452,4 +1452,197 @@ ol,
 ul {
   padding-left: 0;
 }
+
+.patner_img_div {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../img/pat.jpeg);
+  height: 100%;
+  width: 100%;
+  position: relative;
+  border-radius: 10px;
+}
+
+.patner_img_div_inner {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #00a7ffb0;
+  border-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.patner_img_section {
+  background: #f2f2f2;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.patner_img_div_inner_text {
+  padding: 1rem;
+}
+
+.patner_img_div_inner_text h3 {
+  color: #87c332;
+  font-size: 45px;
+  text-transform: capitalize;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.patner_img_div_inner_text p {
+  color: white;
+  font-size: 15px;
+}
+
+.patner_img_div_inner_point {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.patner_img_div_inner_point ul li {
+  color: white;
+  font-size: 20px;
+  font-weight: 550;
+  text-transform: capitalize;
+  margin-bottom: 11px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 25px;
+}
+
+.patner_img_div_inner_point ul li span {
+  margin-right: 15px;
+  width: 4rem;
+  height: 4rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 100%;
+  border: 3px solid white;
+}
+
+.patner_img_div_inner_point ul li span img {
+  width: 40px;
+  height: 40px;
+}
+
+.patner_img_div_inner_point ul li span i {
+  font-size: 30px;
+  color: white;
+}
+
+.franchise_img {
+  -webkit-box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+          box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  text-align: center;
+  height: 21rem;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 10px;
+}
+
+.franchise_img img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 5rem;
+  height: 5rem;
+  margin: auto;
+  margin-bottom: 18px;
+}
+
+.franchise_img h3 {
+  font-size: 34px;
+  font-weight: 700;
+}
+
+.franchise_img p {
+  margin-bottom: 0;
+  color: #666;
+  font-size: 15px;
+  padding: 0 7rem;
+}
+
+.point_div_all li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: left;
+      -ms-flex-pack: left;
+          justify-content: left;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #666;
+}
+
+.point_div_all li span img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 7px;
+}
+
+.point_div_all_top {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.point_div_all_new {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.point_div_all_new img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20rem;
+  height: 20rem;
+}
 /*# sourceMappingURL=index.css.map */

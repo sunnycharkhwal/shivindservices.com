@@ -71,7 +71,7 @@
     </div>
     <div class="integrated_facility_div d-none d-xxl-block d-xl-block d-lg-block">
         <div class="integrated_facility_img_div" data-aos="zoom-out" data-aos-duration="2000">
-            <img src="img/mm.jpg" alt="if" data-tilt>
+            <img src="img/mm.webp" alt="if" data-tilt>
         </div>
         <div class="integrated_facility_text_div point1" data-aos="zoom-in" data-aos-duration="1000">
             <h3> <span>01</span> Professional Housekeeping </h3>
@@ -458,7 +458,7 @@
         </div>
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ev2">
             <div class="ev_card shadow-lg">
-                <img class="ev_card_img" src="img/vt.jpg" alt="Charging Solution">
+                <img class="ev_card_img" src="img/vt.webp" alt="Charging Solution">
                 <div class="ev_card_title">
                     <img src="img/evIcon1.png" alt="ev icon">
                     <h3>Vehicle Telematics</h3>
