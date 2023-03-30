@@ -13,6 +13,90 @@
   }
 }
 @media (max-width: 576px) {
+  .bg_div {
+    height: 18rem;
+  }
+  .bg_div_inner_text {
+    h3 {
+      font-size: 26px;
+    }
+  }
+  .add_section_title {
+    margin-left: 0rem;
+    h3 {
+      width: unset;
+      font-size: 25px;
+    }
+  }
+  .float2 {
+    bottom: 22px;
+    right: 10px;
+    left: unset;
+    width: 50px;
+    height: 50px;
+  }
+  .float {
+    bottom: 100px;
+    right: 10px;
+    width: 50px;
+    height: 50px;
+  }
+  .add_section_text {
+    h3 {
+      font-size: 24px;
+    }
+    p {
+      font-size: 15px;
+      width: unset;
+    }
+  }
+  .add_section_col {
+    display: unset;
+  }
+  .x3_img {
+    width: 100%;
+    height: 27rem;
+  }
+  .services_card_div_new {
+    .services_card_div {
+      height: auto;
+      p {
+        display: block;
+      }
+      h3 {
+        font-size: 28px;
+      }
+      .services_card_div_img {
+        width: 5rem;
+        height: 5rem;
+      }
+    }
+  }
+  .dashboard_view_img {
+    height: 15rem;
+  }
+  .features_cms_ul {
+    h3 {
+      font-size: 17px;
+    }
+    p {
+      font-size: 13px;
+    }
+  }
+  .management_system_img {
+    height: 13rem;
+  }
+  .management_system_div {
+    h3 {
+      font-size: 25px;
+      text-align: center;
+    }
+    p {
+      font-size: 13px;
+      text-align: justify;
+      margin-bottom: 10px;
+    }
+  }
   .point_div_all_top {
     justify-content: left;
   }
@@ -360,6 +444,29 @@
   }
 }
 @media (min-width: 768px) {
+  .add_section_title {
+    margin-left: 0rem;
+  }
+  .add_section_text {
+    h3 {
+      font-size: 24px;
+    }
+    p {
+      font-size: 15px;
+      width: unset;
+    }
+  }
+  .dashboard_view_img {
+    height: 25rem;
+  }
+  .management_system_div {
+    h3 {
+      font-size: 30px;
+    }
+    p {
+      font-size: 13px;
+    }
+  }
   .franchise_img {
     h3 {
       font-size: 28px;
@@ -540,6 +647,29 @@
   }
 }
 @media (min-width: 1024px) {
+  .add_section_title {
+    margin-left: 3rem;
+  }
+  .add_section_text {
+    h3 {
+      font-size: 24px;
+    }
+    p {
+      font-size: 15px;
+      width: 20rem;
+    }
+  }
+  .dashboard_view_img {
+    height: 34rem;
+  }
+  .management_system_div {
+    h3 {
+      font-size: 35px;
+    }
+    p {
+      font-size: 15px;
+    }
+  }
   .franchise_img {
     h3 {
       font-size: 34px;
@@ -748,6 +878,9 @@
   }
 }
 @media (min-width: 1440px) {
+  .add_section_title {
+    margin-left: 14rem;
+  }
   .section_title_contact {
     p {
       margin-bottom: 0;

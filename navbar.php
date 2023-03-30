@@ -49,13 +49,15 @@
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> Electric Charging Solution
                 </a>
                 <ul class="dropdown-menu fade-up">
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="ev_chargers.php">
+                            EV-Chargers</a></li>
+
                     <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item"
                             href="ev_charger_franchise.php">EV-Charger-Franchise</a>
                     </li>
                     <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="smart_lot_telematics.php">
                             Smart IOT & Telematics
                         </a></li>
-                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#"> EV-Chargers</a></li>
 
                 </ul>
             </li>

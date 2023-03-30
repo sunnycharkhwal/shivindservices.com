@@ -591,6 +591,7 @@ body.offcanvas-active {
   margin-top: 15px;
   margin-bottom: 0;
   color: #87c332;
+  text-transform: capitalize;
 }
 
 .services_card_div p {
@@ -1644,5 +1645,219 @@ ul {
   background-position: center;
   width: 20rem;
   height: 20rem;
+}
+
+.management_system_div h3 {
+  font-size: 35px;
+  font-weight: 700;
+  background: -webkit-linear-gradient(45deg, #09009f, #00ff95 80%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.management_system_div p {
+  margin-bottom: 0;
+  font-size: 15px;
+  color: #666;
+}
+
+.management_system_img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 25rem;
+  width: 100%;
+  border-radius: 10px;
+  -webkit-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+          box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.management_system_row {
+  margin-top: 5rem;
+}
+
+.features_cms_ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.features_cms_ul h3 {
+  font-size: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+  color: #87c332;
+}
+
+.features_cms_ul img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 3rem;
+  width: 3rem;
+  margin-right: 16px;
+}
+
+.features_cms_ul p {
+  margin-bottom: 0;
+  font-size: 15px;
+  color: #666;
+}
+
+.dashboard_view_img {
+  -webkit-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+          box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 34rem;
+  margin: auto;
+  margin-top: 2.5rem;
+  border-radius: 10px;
+}
+
+.our_usp_card {
+  text-align: center;
+}
+
+.our_usp_card img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 5rem;
+  height: 5rem;
+  margin: auto;
+}
+
+.our_usp_card p {
+  margin-bottom: 0;
+  color: #666;
+}
+
+.our_usp_card h3 {
+  font-size: 25px;
+  font-weight: 600;
+  color: #87c332;
+}
+
+.all_top {
+  margin-top: 1rem;
+}
+
+.x3_img {
+  width: 100%;
+  height: 36rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.add_section_col {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+
+.add_section {
+  background-color: #87c332;
+  padding: 2rem 0;
+}
+
+.add_section ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.add_section ul img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 5rem;
+  height: 5rem;
+  margin-right: 10px;
+  border-radius: 6px;
+}
+
+.add_section_text h3 {
+  font-size: 24px;
+  margin-bottom: 2px;
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.add_section_text p {
+  margin-bottom: 0;
+  font-size: 15px;
+  color: white;
+  width: 20rem;
+}
+
+.add_section_title {
+  margin-left: 14rem;
+}
+
+.add_section_title h3 {
+  font-size: 30px;
+  font-weight: 800;
+  color: white;
+  margin-top: 5px;
+  width: 29rem;
+  text-transform: capitalize;
+}
+
+.add_section_title p {
+  margin-bottom: 0;
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.bg_div {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../img/bg.jpg);
+  width: 100%;
+  margin-top: 4rem;
+  height: 30rem;
+  position: relative;
+}
+
+.bg_div_inner {
+  background-color: #0000007d;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.bg_div_inner_text {
+  position: absolute;
+  text-align: center;
+}
+
+.bg_div_inner_text h3 {
+  color: white;
+  font-size: 30px;
+  font-weight: 800;
+  text-transform: capitalize;
+  margin-bottom: 2rem;
 }
 /*# sourceMappingURL=index.css.map */
