@@ -188,6 +188,7 @@ body.offcanvas-active {
     font-weight: 550;
     span {
       margin-left: 5px;
+      font-family: "Outfit", sans-serif;
     }
     i {
       color: $c1;
@@ -1427,3 +1428,38 @@ ul {
   }
 }
 // bg end
+// all chargers
+.photo_list_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    @include bg_img;
+    width: 88%;
+    height: 40rem;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 2rem;
+    padding: 1rem;
+  }
+}
+.photo_new {
+  .let_talk_btn {
+    padding: 10px 15px;
+  }
+}
+// all chargers end
+
+// privcy
+.privcy_div {
+  p {
+    font-size: 15px;
+    margin-bottom: 0;
+    font-weight: 400;
+    color: #666;
+    text-align: justify;
+  }
+}
+// privcy end

@@ -64,7 +64,7 @@
 
         </ul>
         <ul class="navbar-nav ms-auto right_nav">
-            <li class="nav-item"><a class="btn let_talk_btn" href="#">let's Talk</a></li>
+            <li class="nav-item"><a class="btn let_talk_btn" href="tel:+91 8155040101">let's Talk</a></li>
         </ul>
 
     </div> <!-- container-fluid.// -->

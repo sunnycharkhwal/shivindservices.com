@@ -272,10 +272,9 @@
     <div class="bg_div_inner">
         <div class="bg_div_inner_text">
             <h3>“Want to know what is best for you ?</h3>
-            <a href="#" class="btn let_talk_btn">Click here For More Details</a>
+            <a href="all_chargers.php" class="btn let_talk_btn">Click here For More Details</a>
         </div>
     </div>
-
 </section>
 <!-- bg end -->
 <?php include 'footer.php'; ?>
