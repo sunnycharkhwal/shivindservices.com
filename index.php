@@ -23,7 +23,7 @@
     <div class="row g-4">
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
             <div class="services_card_div ">
-                <div class="services_card_div_img" style="background-image: url('img/ifm.png');"></div>
+                <div class="services_card_div_img" style="background-image: url('img/ifm.webp');"></div>
                 <h3>( IFM ) Services</h3>
                 <p>Integrated Facility Management
                     across Industrial, Commercial, Residential, Schools, Universities, Hospitals
@@ -33,7 +33,7 @@
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
             <a href="#it">
                 <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/it.png');"></div>
+                    <div class="services_card_div_img" style="background-image: url('img/it.webp');"></div>
                     <h3>IT &amp; Non-IT Supplies</h3>
                     <p>Supply and Services related to Information
                         Technology, Industrial Spares (MRO), Stationery, Housekeeping material,
@@ -44,7 +44,7 @@
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
             <a href="#consultancy">
                 <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/pc.png');"></div>
+                    <div class="services_card_div_img" style="background-image: url('img/pc.webp');"></div>
                     <h3>Professional Consultancy Services</h3>
                     <p>Professional Consultancy Services for
                         Supply Chain, Procurement, Finance, Audit, HR etc</p>
@@ -54,7 +54,7 @@
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
             <a href="#EVCharging">
                 <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/evc.png');"></div>
+                    <div class="services_card_div_img" style="background-image: url('img/evc.webp');"></div>
                     <h3>EV Charging Solution</h3>
                     <p>User friendly EV Charging system with
                         Integrated technology and easy to use for all categories of vehicles.</p>
@@ -207,7 +207,7 @@
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
-                        <div class="it_card_img_inner" style="background-image: url('img/it1.png');"></div>
+                        <div class="it_card_img_inner" style="background-image: url('img/it1.webp');"></div>
                     </div>
                 </div>
                 <h3>IT Hardware</h3>
@@ -220,7 +220,7 @@
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
-                        <div class="it_card_img_inner" style="background-image: url('img/it2.png');"></div>
+                        <div class="it_card_img_inner" style="background-image: url('img/it2.webp');"></div>
                     </div>
                 </div>
                 <h3>IT Software</h3>
@@ -233,7 +233,7 @@
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
-                        <div class="it_card_img_inner" style="background-image: url('img/it3.png');"></div>
+                        <div class="it_card_img_inner" style="background-image: url('img/it3.webp');"></div>
                     </div>
                 </div>
                 <h3>IT Network</h3>
@@ -246,7 +246,7 @@
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
-                        <div class="it_card_img_inner" style="background-image: url('img/it4.png');"></div>
+                        <div class="it_card_img_inner" style="background-image: url('img/it4.webp');"></div>
                     </div>
                 </div>
                 <h3>Refurbished IT Products</h3>
@@ -259,7 +259,7 @@
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
-                        <div class="it_card_img_inner" style="background-image: url('img/it5.png');"></div>
+                        <div class="it_card_img_inner" style="background-image: url('img/it5.webp');"></div>
                     </div>
                 </div>
                 <h3>Industrial Spares</h3>
@@ -273,7 +273,7 @@
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
-                        <div class="it_card_img_inner" style="background-image: url('img/it6.png');"></div>
+                        <div class="it_card_img_inner" style="background-image: url('img/it6.webp');"></div>
                     </div>
                 </div>
                 <h3>Stationery & Housekeeping Material</h3>
@@ -286,7 +286,7 @@
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
-                        <div class="it_card_img_inner" style="background-image: url('img/it7.png');"></div>
+                        <div class="it_card_img_inner" style="background-image: url('img/it7.webp');"></div>
                     </div>
                 </div>
                 <h3>Stationery &amp; Housekeeping</h3>
@@ -308,7 +308,7 @@
             <div class="it_card it_card2">
                 <div class="it_card_img_uper">
                     <div class="it_card_img it_card_img_inner2">
-                        <div class="it_card_img_inner " style="background-image: url('img/p1.png');">
+                        <div class="it_card_img_inner " style="background-image: url('img/p1.webp');">
                         </div>
                     </div>
                 </div>
@@ -323,7 +323,7 @@
             <div class="it_card it_card2">
                 <div class="it_card_img_uper">
                     <div class="it_card_img it_card_img_inner2">
-                        <div class="it_card_img_inner " style="background-image: url('img/p2.png');">
+                        <div class="it_card_img_inner " style="background-image: url('img/p2.webp');">
                         </div>
                     </div>
                 </div>
@@ -338,7 +338,7 @@
             <div class="it_card it_card2">
                 <div class="it_card_img_uper">
                     <div class="it_card_img it_card_img_inner2">
-                        <div class="it_card_img_inner " style="background-image: url('img/p3.png');">
+                        <div class="it_card_img_inner " style="background-image: url('img/p3.webp');">
                         </div>
                     </div>
                 </div>
@@ -352,7 +352,7 @@
             <div class="it_card it_card2">
                 <div class="it_card_img_uper">
                     <div class="it_card_img it_card_img_inner2">
-                        <div class="it_card_img_inner " style="background-image: url('img/p4.png');">
+                        <div class="it_card_img_inner " style="background-image: url('img/p4.webp');">
                         </div>
                     </div>
                 </div>
@@ -367,7 +367,7 @@
             <div class="it_card it_card2">
                 <div class="it_card_img_uper">
                     <div class="it_card_img it_card_img_inner2">
-                        <div class="it_card_img_inner " style="background-image: url('img/p5.png');">
+                        <div class="it_card_img_inner " style="background-image: url('img/p5.webp');">
                         </div>
                     </div>
                 </div>
@@ -391,26 +391,26 @@
         <div class="electric_vehicles_top_div">
             <div class="owl-carousel owl-theme">
                 <div class="item">
-                    <img class="pr_img" src="img/pr1.png" alt="ev">
+                    <img class="pr_img" src="img/pr1.webp" alt="ev">
                 </div>
                 <div class="item">
-                    <img class="pr_img" src="img/pr2.png" alt="ev">
+                    <img class="pr_img" src="img/pr2.webp" alt="ev">
                 </div>
                 <div class="item">
-                    <img class="pr_img" src="img/pr3.png" alt="ev">
+                    <img class="pr_img" src="img/pr3.webp" alt="ev">
 
                 </div>
                 <div class="item">
-                    <img class="pr_img" src="img/pr4.png" alt="ev">
+                    <img class="pr_img" src="img/pr4.webp" alt="ev">
                 </div>
                 <div class="item">
-                    <img class="pr_img" src="img/pr5.png" alt="ev">
+                    <img class="pr_img" src="img/pr5.webp" alt="ev">
                 </div>
                 <div class="item">
-                    <img class="pr_img" src="img/pr6.png" alt="ev">
+                    <img class="pr_img" src="img/pr6.webp" alt="ev">
                 </div>
                 <div class="item">
-                    <img class="pr_img" src="img/pr7.png" alt="ev">
+                    <img class="pr_img" src="img/pr7.webp" alt="ev">
                 </div>
             </div>
         </div>
@@ -425,9 +425,9 @@
     <div class="row justify-content-center">
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ev1">
             <div class="ev_card shadow-lg ">
-                <img class="ev_card_img" src="img/ev1.jpeg" alt="Charging Solution">
+                <img class="ev_card_img" src="img/ev1.webp" alt="Charging Solution">
                 <div class="ev_card_title">
-                    <img src="img/evIcon1.png" alt="ev icon">
+                    <img src="img/evIcon1.webp" alt="ev icon">
                     <h3>Charging Solution</h3>
                 </div>
                 <p>Charging solution for multi unit dwellers helps in the shift from conventional to Electric Vehicles.
@@ -436,9 +436,9 @@
         </div>
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
             <div class="ev_card shadow-lg">
-                <img class="ev_card_img" src="img/em.jpeg" alt="Charging Solution">
+                <img class="ev_card_img" src="img/em.webp" alt="Charging Solution">
                 <div class="ev_card_title">
-                    <img src="img/evIcon1.png" alt="ev icon">
+                    <img src="img/evIcon1.webp" alt="ev icon">
                     <h3>E-Mobility</h3>
                 </div>
                 <p>E-Mobility comes with zero tailpipe emissions of air pollutants & lower noise, changing the face of
@@ -447,9 +447,9 @@
         </div>
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ev1 ev2">
             <div class="ev_card shadow-lg">
-                <img class="ev_card_img" src="img/lot.jpg" alt="Charging Solution">
+                <img class="ev_card_img" src="img/lot.webp" alt="Charging Solution">
                 <div class="ev_card_title">
-                    <img src="img/evIcon1.png" alt="ev icon">
+                    <img src="img/evIcon1.webp" alt="ev icon">
                     <h3>Smart IOT</h3>
                 </div>
                 <p>Charging solution for multi unit dwellers helps in the shift from conventional to Electric Vehicles.
@@ -460,7 +460,7 @@
             <div class="ev_card shadow-lg">
                 <img class="ev_card_img" src="img/vt.webp" alt="Charging Solution">
                 <div class="ev_card_title">
-                    <img src="img/evIcon1.png" alt="ev icon">
+                    <img src="img/evIcon1.webp" alt="ev icon">
                     <h3>Vehicle Telematics</h3>
                 </div>
                 <p>Efill’s telematics solution helps the fleet owners & logistic companies in real time tracking of
@@ -469,9 +469,9 @@
         </div>
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ev1 ev2">
             <div class="ev_card shadow-lg">
-                <img class="ev_card_img" src="img/evc.jpg" alt="Charging Solution">
+                <img class="ev_card_img" src="img/evc.webp" alt="Charging Solution">
                 <div class="ev_card_title">
-                    <img src="img/evIcon1.png" alt="ev icon">
+                    <img src="img/evIcon1.webp" alt="ev icon">
                     <h3>Electric Vehicles</h3>
                 </div>
                 <p>Charging solution for multi unit dwellers helps in the shift from conventional to Electric Vehicles.

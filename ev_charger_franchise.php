@@ -48,14 +48,15 @@
                             <div class="patner_img_div_inner_point">
                                 <ul>
                                     <li> <span><i class="fas fa-home"></i></span> ncrease in property value</li>
-                                    <li> <span> <img src="img/pat2.png" alt="patner"> </span> Meet sustainability goals
+                                    <li> <span> <img src="img/pat2.webp" alt="patner"> </span> Meet sustainability goals
                                     </li>
-                                    <li> <span> <img src="img/pat3.png" alt="patner"> </span> Edge over competitors</li>
-                                    <li> <span> <img src="img/pat4.png" alt="patner"> </span> Better patneror
+                                    <li> <span> <img src="img/pat3.webp" alt="patner"> </span> Edge over competitors
+                                    </li>
+                                    <li> <span> <img src="img/pat4.webp" alt="patner"> </span> Better patneror
                                         environment</li>
-                                    <li> <span><img src="img/pat5.png" alt="patner"> </span> Increase your brand value
+                                    <li> <span><img src="img/pat5.webp" alt="patner"> </span> Increase your brand value
                                     </li>
-                                    <li> <span><img src="img/pat6.png" alt="patner"> </span> Meet Govt mandate</li>
+                                    <li> <span><img src="img/pat6.webp" alt="patner"> </span> Meet Govt mandate</li>
 
                                 </ul>
                             </div>
@@ -170,7 +171,7 @@
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
             <div class="franchise_img">
                 <div>
-                    <img src="img/fr1.png" alt="Franchise">
+                    <img src="img/fr1.webp" alt="Franchise">
                     <h3>Franchise Role</h3>
                     <p>E-Fill will provide training MF for all ops. Unit franchises will get support from MF. Franchise
                         will
@@ -181,7 +182,7 @@
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
             <div class="franchise_img">
                 <div>
-                    <img src="img/fr2.png" alt="Franchise">
+                    <img src="img/fr2.webp" alt="Franchise">
                     <h3>Revenue Stream</h3>
                     <p>B2C EV Charger Sales. Revenue from installed EV charger as CPO. I&C for sold chargers & after
                         sale service</p>
@@ -191,7 +192,7 @@
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
             <div class="franchise_img">
                 <div>
-                    <img src="img/fr3.png" alt="Franchise">
+                    <img src="img/fr3.webp" alt="Franchise">
                     <h3>Equipment on COGS</h3>
                     <p>Master Franchise will get charger units worth INR 10,00,000 E-Fill X3 30 kW DC chargers included
                         in the bundle.</p>
@@ -201,7 +202,7 @@
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
             <div class="franchise_img">
                 <div>
-                    <img src="img/fr4.png" alt="Franchise">
+                    <img src="img/fr4.webp" alt="Franchise">
                     <h3>Quick ROI</h3>
                     <p>Full revenue stream in less than 24 months. Help in office setup and license approvals.</p>
                 </div>
@@ -215,34 +216,34 @@
     <div class="row g-3">
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 point_div_all_top">
             <ul class="point_div_all">
-                <li> <span> <img src="img/point.png" alt="Franchise"> </span>
+                <li> <span> <img src="img/point.webp" alt="Franchise"> </span>
                     2000 Sq. ft Assembly Area for EV Chargers
                 </li>
-                <li> <span> <img src="img/point.png" alt="Franchise"> </span>
+                <li> <span> <img src="img/point.webp" alt="Franchise"> </span>
                     Manufacturing 10+ Chargers everyday
                 </li>
-                <li> <span> <img src="img/point.png" alt="Franchise"> </span>
+                <li> <span> <img src="img/point.webp" alt="Franchise"> </span>
                     2 x Assembly Lines
                 </li>
-                <li> <span> <img src="img/point.png" alt="Franchise"> </span>
+                <li> <span> <img src="img/point.webp" alt="Franchise"> </span>
                     20 EV Chargers Assembly Capability per day
                 </li>
-                <li> <span> <img src="img/point.png" alt="Franchise"> </span>
+                <li> <span> <img src="img/point.webp" alt="Franchise"> </span>
                     Well Trained Man Power
                 </li>
-                <li> <span> <img src="img/point.png" alt="Franchise"> </span>
+                <li> <span> <img src="img/point.webp" alt="Franchise"> </span>
                     Production process in 7-10 Stages only
                 </li>
-                <li> <span> <img src="img/point.png" alt="Franchise"> </span>
+                <li> <span> <img src="img/point.webp" alt="Franchise"> </span>
                     Ageing Testing Facility
                 </li>
-                <li> <span> <img src="img/point.png" alt="Franchise"> </span>
+                <li> <span> <img src="img/point.webp" alt="Franchise"> </span>
                     Destructive Testing Facility.
                 </li>
             </ul>
         </div>
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 point_div_all_new">
-            <img src="img/eva.png" alt="point">
+            <img src="img/eva.webp" alt="point">
         </div>
     </div>
 </section>

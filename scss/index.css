@@ -1274,7 +1274,7 @@ body.offcanvas-active {
 }
 
 .all_page_top {
-  background-image: url(../img/ev_banner.jpeg);
+  background-image: url(../img/ev_banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1459,7 +1459,7 @@ ul {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url(../img/pat.jpeg);
+  background-image: url(../img/pat.webp);
   height: 100%;
   width: 100%;
   position: relative;
@@ -1826,7 +1826,7 @@ ul {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url(../img/bg.jpg);
+  background-image: url(../img/bg.webp);
   width: 100%;
   margin-top: 4rem;
   height: 30rem;

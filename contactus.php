@@ -159,7 +159,7 @@
             <div class="modal-body">
                 <div class=" text-center">
                     <div>
-                        <img class="contact_img" src="img/t.png" alt="t">
+                        <img class="contact_img" src="img/t.webp" alt="t">
                     </div>
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
                 </div>

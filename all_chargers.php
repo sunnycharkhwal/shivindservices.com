@@ -24,22 +24,22 @@
     <div class="row g-3">
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/1.jpeg" alt="all chargers" data-tilt>
+                <img src="img/1.webp" alt="all chargers" data-tilt>
             </div>
         </div>
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/2.jpg" alt="all chargers" data-tilt>
+                <img src="img/2.webp" alt="all chargers" data-tilt>
             </div>
         </div>
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/3.jpg" alt="all chargers" data-tilt>
+                <img src="img/3.webp" alt="all chargers" data-tilt>
             </div>
         </div>
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/4.jpg" alt="all chargers" data-tilt>
+                <img src="img/4.webp" alt="all chargers" data-tilt>
             </div>
         </div>
     </div>
@@ -56,37 +56,37 @@
     <div class="row g-3">
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/5.jpg" alt="all chargers" data-tilt>
+                <img src="img/5.webp" alt="all chargers" data-tilt>
             </div>
         </div>
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/6.jpg" alt="all chargers" data-tilt>
+                <img src="img/6.webp" alt="all chargers" data-tilt>
             </div>
         </div>
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/7.jpeg" alt="all chargers" data-tilt>
+                <img src="img/7.webp" alt="all chargers" data-tilt>
             </div>
         </div>
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/8.jpeg" alt="all chargers" data-tilt>
+                <img src="img/8.webp" alt="all chargers" data-tilt>
             </div>
         </div>
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/9.jpeg" alt="all chargers" data-tilt>
+                <img src="img/9.webp" alt="all chargers" data-tilt>
             </div>
         </div>
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/10.jpeg" alt="all chargers" data-tilt>
+                <img src="img/10.webp" alt="all chargers" data-tilt>
             </div>
         </div>
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/11.jpeg" alt="all chargers" data-tilt>
+                <img src="img/11.webp" alt="all chargers" data-tilt>
             </div>
         </div>
     </div>
@@ -97,12 +97,12 @@
     <div class="row g-3">
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/12.jpeg" alt="all chargers" data-tilt>
+                <img src="img/12.webp" alt="all chargers" data-tilt>
             </div>
         </div>
         <div class="col-12" data-aos="fade-up" data-aos-duration="3000">
             <div class="photo_list_div">
-                <img src="img/13.jpeg" alt="all chargers" data-tilt>
+                <img src="img/13.webp" alt="all chargers" data-tilt>
             </div>
         </div>
     </div>

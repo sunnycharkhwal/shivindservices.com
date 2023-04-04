@@ -62,13 +62,13 @@
                 </div>
             </div>
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                <img class="management_system_img" src="img/lot1.jpg" alt="Management System" data-aos="fade-up"
+                <img class="management_system_img" src="img/lot1.webp" alt="Management System" data-aos="fade-up"
                     data-aos-duration="3000">
             </div>
         </div>
         <div class="row management_system_row">
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 order-md-1 order-2">
-                <img class="management_system_img" src="img/lot2.jpg" alt="Management System" data-aos="fade-up"
+                <img class="management_system_img" src="img/lot2.webp" alt="Management System" data-aos="fade-up"
                     data-aos-duration="3000">
             </div>
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 order-md-2 order-1">
@@ -105,7 +105,7 @@
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-out" data-aos-duration="1000">
             <ul class="features_cms_ul">
                 <li>
-                    <img src="img/CMS1.png" alt="CMS">
+                    <img src="img/CMS1.webp" alt="CMS">
                 </li>
                 <li>
                     <h3>Dynamic Lead Management</h3>
@@ -117,7 +117,7 @@
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-out" data-aos-duration="1000">
             <ul class="features_cms_ul">
                 <li>
-                    <img src="img/CMS2.png" alt="CMS">
+                    <img src="img/CMS2.webp" alt="CMS">
                 </li>
                 <li>
                     <h3>Advance Pricing Mechanismt</h3>
@@ -129,7 +129,7 @@
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-out" data-aos-duration="1000">
             <ul class="features_cms_ul">
                 <li>
-                    <img src="img/CMS3.png" alt="CMS">
+                    <img src="img/CMS3.webp" alt="CMS">
                 </li>
                 <li>
                     <h3>Online Setting Management</h3>
@@ -141,7 +141,7 @@
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-out" data-aos-duration="1000">
             <ul class="features_cms_ul">
                 <li>
-                    <img src="img/CMS4.png" alt="CMS">
+                    <img src="img/CMS4.webp" alt="CMS">
                 </li>
                 <li>
                     <h3>Earn Additional Revenue</h3>
@@ -153,7 +153,7 @@
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-out" data-aos-duration="1000">
             <ul class="features_cms_ul">
                 <li>
-                    <img src="img/CMS5.png" alt="CMS">
+                    <img src="img/CMS5.webp" alt="CMS">
                 </li>
                 <li>
                     <h3>OCCP 1.6 & 2.0
@@ -166,7 +166,7 @@
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-out" data-aos-duration="1000">
             <ul class="features_cms_ul">
                 <li>
-                    <img src="img/CMS6.png" alt="CMS">
+                    <img src="img/CMS6.webp" alt="CMS">
                 </li>
                 <li>
                     <h3>Remote Monitoring</h3>
@@ -197,7 +197,7 @@
             corporis, provident blanditiis.
         </p>
     </div>
-    <img class="dashboard_view_img" src="img/ds.png" alt="Dashboard View" data-aos="zoom-in">
+    <img class="dashboard_view_img" src="img/ds.webp" alt="Dashboard View" data-aos="zoom-in">
 </section>
 <!-- Dashboard View end -->
 <!-- Our USPs -->
@@ -210,7 +210,7 @@
             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP1.png');"></div>
+                    <div class="services_card_div_img" style="background-image: url('img/USP1.webp');"></div>
                     <h3>live asset tracking</h3>
                     <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
                         recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>
@@ -219,7 +219,7 @@
             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP2.png');"></div>
+                    <div class="services_card_div_img" style="background-image: url('img/USP2.webp');"></div>
                     <h3>shipment tracking</h3>
                     <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
                         recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>
@@ -228,7 +228,7 @@
             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP3.png');"></div>
+                    <div class="services_card_div_img" style="background-image: url('img/USP3.webp');"></div>
                     <h3>identity theft</h3>
                     <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
                         recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>
@@ -237,7 +237,7 @@
             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP4.png');"></div>
+                    <div class="services_card_div_img" style="background-image: url('img/USP4.webp');"></div>
                     <h3>real-time alerts</h3>
                     <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
                         recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>
@@ -246,7 +246,7 @@
             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP5.png');"></div>
+                    <div class="services_card_div_img" style="background-image: url('img/USP5.webp');"></div>
                     <h3>reporting</h3>
                     <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
                         recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>
@@ -255,7 +255,7 @@
             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
                 data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP6.png');"></div>
+                    <div class="services_card_div_img" style="background-image: url('img/USP6.webp');"></div>
                     <h3>expense management</h3>
                     <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
                         recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>

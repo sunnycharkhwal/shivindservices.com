@@ -42,7 +42,7 @@
                 </div>
             </div>
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                <img class="management_system_img" src="img/evs1.png" alt="Management System" data-aos="fade-up"
+                <img class="management_system_img" src="img/evs1.webp" alt="Management System" data-aos="fade-up"
                     data-aos-duration="3000">
             </div>
         </div>
@@ -63,7 +63,7 @@
                 data-aos-duration="1000">
                 <div>
                     <ul class="add_section">
-                        <li><img src="img/s1.png" alt="cr"></li>
+                        <li><img src="img/s1.webp" alt="cr"></li>
                         <li class="add_section_text">
                             <h3>title</h3>
                             <p>Our expertise, as well as our passion for web design, sets us apart from other agencies.
@@ -76,7 +76,7 @@
                 data-aos-duration="1000">
                 <div>
                     <ul class="add_section">
-                        <li><img src="img/s2.png" alt="cr"></li>
+                        <li><img src="img/s2.webp" alt="cr"></li>
                         <li class="add_section_text">
                             <h3>title</h3>
                             <p>Our expertise, as well as our passion for web design, sets us apart from other agencies.
@@ -89,7 +89,7 @@
                 data-aos-duration="1000">
                 <div>
                     <ul class="add_section">
-                        <li><img src="img/s3.png" alt="cr"></li>
+                        <li><img src="img/s3.webp" alt="cr"></li>
                         <li class="add_section_text">
                             <h3>title</h3>
                             <p>Our expertise, as well as our passion for web design, sets us apart from other agencies.
@@ -102,7 +102,7 @@
                 data-aos-duration="1000">
                 <div>
                     <ul class="add_section">
-                        <li><img src="img/s1.png" alt="cr"></li>
+                        <li><img src="img/s1.webp" alt="cr"></li>
                         <li class="add_section_text">
                             <h3>title</h3>
                             <p>Our expertise, as well as our passion for web design, sets us apart from other agencies.
@@ -120,7 +120,7 @@
     <div>
         <div class="row management_system_row">
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 order-md-1 order-2">
-                <img class="management_system_img" src="img/evs2.jpeg" alt="Management System" data-aos="fade-up"
+                <img class="management_system_img" src="img/evs2.webp" alt="Management System" data-aos="fade-up"
                     data-aos-duration="3000">
             </div>
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 order-md-2 order-1">
@@ -166,7 +166,7 @@
                 </div>
             </div>
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                <img class="management_system_img" src="img/evs3.jpeg" alt="Management System" data-aos="fade-up"
+                <img class="management_system_img" src="img/evs3.webp" alt="Management System" data-aos="fade-up"
                     data-aos-duration="3000">
             </div>
         </div>
@@ -179,16 +179,16 @@
     </div>
     <div class="row">
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-            <img class="x3_img" src="img/x3.png" alt="x3" data-aos="fade-up" data-aos-duration="3000">
+            <img class="x3_img" src="img/x3.webp" alt="x3" data-aos="fade-up" data-aos-duration="3000">
         </div>
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-            <img class="x3_img" src="img/x4.png" alt="x3" data-aos="fade-up" data-aos-duration="3000">
+            <img class="x3_img" src="img/x4.webp" alt="x3" data-aos="fade-up" data-aos-duration="3000">
         </div>
     </div>
     <div>
         <div class="row management_system_row">
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 order-md-1 order-2">
-                <img class="management_system_img" src="img/evs4.jpeg" alt="Management System" data-aos="fade-up"
+                <img class="management_system_img" src="img/evs4.webp" alt="Management System" data-aos="fade-up"
                     data-aos-duration="3000">
             </div>
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 order-md-2 order-1">
@@ -234,13 +234,13 @@
                 </div>
             </div>
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                <img class="management_system_img" src="img/exs6.jpeg" alt="Management System" data-aos="fade-up"
+                <img class="management_system_img" src="img/exs6.webp" alt="Management System" data-aos="fade-up"
                     data-aos-duration="3000">
             </div>
         </div>
         <div class="row management_system_row">
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 order-md-1 order-2">
-                <img class="management_system_img" src="img/evs7.jpeg" alt="Management System" data-aos="fade-up"
+                <img class="management_system_img" src="img/evs7.webp" alt="Management System" data-aos="fade-up"
                     data-aos-duration="3000">
             </div>
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 order-md-2 order-1">

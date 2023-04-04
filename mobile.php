@@ -14,7 +14,7 @@
                         data-aos="fade-up" data-aos-duration="3000">
                         <div class=" mobile_app_download_app_top">
                             <div class="mobile_app_download_app">
-                                <img src="img/googleplay.png" alt="google play">
+                                <img src="img/googleplay.webp" alt="google play">
                                 <div class="inner">
                                     <p>Download on</p>
                                     <small>Google Play</small>
@@ -26,7 +26,7 @@
                         data-aos="fade-up" data-aos-duration="3000">
                         <div class="mobile_app_download_app_top">
                             <div class="mobile_app_download_app">
-                                <img src="img/apple.png" alt="google play">
+                                <img src="img/apple.webp" alt="google play">
                                 <div class="inner">
                                     <p>Download on</p>
                                     <small>app store</small>
@@ -38,7 +38,7 @@
             </div>
         </div>
         <div class="col-6 mobile_right_img">
-            <img src="img/mobile.png" alt="mobile" data-aos="fade-up-left">
+            <img src="img/mobile.webp" alt="mobile" data-aos="fade-up-left">
         </div>
     </div>
 </section>
