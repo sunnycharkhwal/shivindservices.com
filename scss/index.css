@@ -20,7 +20,7 @@ a {
 }
 
 .text_black {
-  color: #000;
+  color: #000 !important;
 }
 
 .btn.focus,

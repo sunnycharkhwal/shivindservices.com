@@ -9,7 +9,7 @@
                     Lorem
                     Ipsum is simply dummy when looking at its layout.
                 </p>
-                <a href="#" class="btn let_talk_btn">read more</a>
+                <!-- <a href="#" class="btn let_talk_btn">read more</a> -->
             </div>
         </div>
         <img src="img/slider1.webp" class="slider_img">
@@ -25,7 +25,7 @@
                 <p>Our purpose is to build solutions that remove barriers preventing people from doing their best work,
                     and this is at the heart.
                 </p>
-                <a href="#" class="btn let_talk_btn">read more</a>
+                <!-- <a href="#" class="btn let_talk_btn">read more</a> -->
             </div>
         </div>
         <img src="img/slider2.webp" class="slider_img">
@@ -43,7 +43,7 @@
                     doing their best work,
                     and this is at the heart.
                 </p>
-                <a href="#" class="btn let_talk_btn">read more</a>
+                <!-- <a href="#" class="btn let_talk_btn">read more</a> -->
             </div>
         </div>
         <img src="img/slider3.webp" class="slider_img">
@@ -54,11 +54,12 @@
             <div class="txt zoom-in-out-box">
 
                 <small>We are the best ........ </small>
-                <h3>We best <span>Integrated</span> Facility Management Services Provide </h3>
+                <h3>We are the best <span class="text_black">Integrated</span> Facility Management Services Provide
+                </h3>
                 <p>Our purpose is to build solutions that remove barriers preventing people from doing their best work,
                     and this is at the heart.
                 </p>
-                <a href="#" class="btn let_talk_btn">read more</a>
+                <!-- <a href="#" class="btn let_talk_btn">read more</a> -->
             </div>
         </div>
         <img src="img/slider4.webp" class="slider_img">

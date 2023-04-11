@@ -6,15 +6,15 @@
         <h3>Why choose <span>Shiv Industrial</span> Services?</h3>
     </div>
     <div class="index_about_div" data-aos="zoom-in" data-aos-delay="300">
-        <p>At Shiv Industrial services, we aim to deliver smart, innovative end-end solutions
-            that can help your organisation grow profitability, improve productivity and
-            happy work environment. We follow all statutory, regulatory and audit
-            compliances enabling our customers to focus on their core business activities.
-            Over the past five years, Shiv Industrial Services has become a renowned name in
-            the industry by providing quality services to some of the biggest Clients, including
-            leading MNCs in the country. We offer our employees all facilities including state-
-            of-the-art trainings leading world class services customized as per customer
-            requirements. We offer One-stop solution for all our customers.</p>
+        <p>At Shiv Industrial Services, we aim to deliver smart, innovative, end-end solutions that
+            can help your organisation grow profitability, improve productivity and happy work
+            environment. We follow all statutory, regulatory and audit compliances enabling our
+            customers to focus on their core business activities. Over the past five years, Shiv
+            Industrial Services has become a renowned name in the industry by providing quality
+            services to some of the biggest Clients, including leading MNCs in the country. We offer
+            our employees all facilities including state-of-the-art trainings leading to world class
+            services customized as per customer requirements. We offer One-stop solution for all
+            our customers.</p>
     </div>
 </section>
 <!-- about end -->
@@ -22,13 +22,15 @@
 <section class=" container section_mt  ">
     <div class="row g-4">
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
-            <div class="services_card_div ">
-                <div class="services_card_div_img" style="background-image: url('img/ifm.webp');"></div>
-                <h3>( IFM ) Services</h3>
-                <p>Integrated Facility Management
-                    across Industrial, Commercial, Residential, Schools, Universities, Hospitals
-                    etc.</p>
-            </div>
+            <a href="#ifm">
+                <div class="services_card_div ">
+                    <div class="services_card_div_img" style="background-image: url('img/ifm.webp');"></div>
+                    <h3>( IFM ) Services</h3>
+                    <p>Integrated Facility Management
+                        across Industrial, Commercial, Residential, Schools, Universities, Hospitals
+                        etc.</p>
+                </div>
+            </a>
         </div>
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
             <a href="#it">
@@ -75,48 +77,51 @@
         </div>
         <div class="integrated_facility_text_div point1" data-aos="zoom-in" data-aos-duration="1000">
             <h3> <span>01</span> Professional Housekeeping </h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum fugiat amet
-                vitae!</p>
+            <p>We provide Professional Housekeeping services leading to a clean, comfortable, safe and
+                aesthetically appealing environment</p>
         </div>
         <div class="integrated_facility_text_div point2" data-aos="zoom-in" data-aos-duration="1000">
             <h3> <span>02</span> Garden Maintenance </h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum fugiat amet
-                vitae!</p>
+            <p>We help create, nourish and manage native gardens to maintain the beauty of plants, outdoor
+                grounds, and trees in a garden and giving your eyes a soothing effect</p>
         </div>
         <div class="integrated_facility_text_div point3" data-aos="zoom-in" data-aos-duration="1000">
             <h3> <span>03</span> Civil, Electrical, Painting turn-key </h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum fugiat amet
-                vitae!</p>
+            <p>We undertake all type of Infra related activities from design to build and also undertake Annual Rate
+                Contract for similar activities</p>
         </div>
         <div class="integrated_facility_text_div point4" data-aos="zoom-in" data-aos-duration="1000">
             <h3> <span>04</span> Fabrication, Ducting, Hot &amp; Cold Insulation </h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum fugiat amet
-                vitae!</p>
+            <p>We offer comprehensive services for varied Industrial, Residential and commercial sectors
+                through our strong infrastructural support</p>
         </div>
         <div class="integrated_facility_text_div point5" data-aos="zoom-in" data-aos-duration="1000">
             <h3> <span>05</span> MHE Maintenance </h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum fugiat amet
-                vitae!</p>
+            <p>Armed with a team of trained, qualified, and experienced professionals in the MHE industry, we
+                offer a wide range of services including dealing in old &amp; new MHE.p>
         </div>
         <div class="integrated_facility_text_div point6" data-aos="zoom-in" data-aos-duration="1000">
             <h3> <span>06</span>Scrap Management, Handling and disposal </h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum fugiat amet
-                vitae!</p>
+            <p>We provide extraordinary services majorly for the scrap handling and various disposal activities with
+                reduce, reuse and recycle applications as part of our commitment for a sustainable
+                environment.</p>
         </div>
         <div class="integrated_facility_text_div point7" data-aos="zoom-in" data-aos-duration="1000">
             <h3> <span>07</span>Blue and White Collar staffing </h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum fugiat amet
-                vitae!</p>
+            <p>We provide Blue &amp; White collar services covering permanent, contract and temporary jobs
+                in the major industries</p>
         </div>
         <div class="integrated_facility_text_div point8" data-aos="zoom-in" data-aos-duration="1000">
             <h3> <span>08</span>E-waste management</h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum fugiat amet
-                vitae!</p>
+            <p>Through our strong back-end contract with certified e-waste management companies we
+                establish a true reverse-logistics chain for e-waste, from consumers to recyclers</p>
         </div>
         <div class="integrated_facility_text_div point9" data-aos="zoom-in" data-aos-duration="1000">
             <h3> <span>09</span>Aggregator / Integrator</h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum fugiat amet
-                vitae!</p>
+            <p>We Procurement Service Provider (PSP) offer Procurement Outsourcing Services for our customers to Utilize
+                opportunities to save cost (Tail-end management), Streamline processes enabling them to focus on their
+                core
+                business.</p>
         </div>
     </div>
     <div class=" d-block d-xxl-none d-xl-none d-lg-none">
@@ -124,73 +129,70 @@
             <div class="col-md-4 col-sm-12 col-12">
                 <div class="integrated_facility_text_div" data-aos="zoom-in" data-aos-duration="1000">
                     <h3> <span>01</span> Professional Housekeeping </h3>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum
-                        fugiat amet
-                        vitae!</p>
+                    <p>We provide Professional Housekeeping services leading to a clean, comfortable, safe and
+                        aesthetically appealing environment</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-12 col-12">
                 <div class="integrated_facility_text_div" data-aos="zoom-in" data-aos-duration="1000">
                     <h3> <span>02</span> Garden Maintenance </h3>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum
-                        fugiat amet
-                        vitae!</p>
+                    <p>We help create, nourish and manage native gardens to maintain the beauty of plants, outdoor
+                        grounds, and trees in a garden and giving your eyes a soothing effect</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-12 col-12">
                 <div class="integrated_facility_text_div" data-aos="zoom-in" data-aos-duration="1000">
                     <h3> <span>03</span> Civil, Electrical, Painting turn-key </h3>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum
-                        fugiat amet
-                        vitae!</p>
+                    <p>We undertake all type of Infra related activities from design to build and also undertake Annual
+                        Rate
+                        Contract for similar activities</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-12 col-12">
                 <div class="integrated_facility_text_div" data-aos="zoom-in" data-aos-duration="1000">
                     <h3> <span>04</span> Fabrication, Ducting, Hot &amp; Cold Insulation </h3>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum
-                        fugiat amet
-                        vitae!</p>
+                    <p>We offer comprehensive services for varied Industrial, Residential and commercial sectors
+                        through our strong infrastructural support</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-12 col-12">
                 <div class="integrated_facility_text_div" data-aos="zoom-in" data-aos-duration="1000">
                     <h3> <span>05</span> MHE Maintenance </h3>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum
-                        fugiat amet
-                        vitae!</p>
+                    <p>Armed with a team of trained, qualified, and experienced professionals in the MHE industry, we
+                        offer a wide range of services including dealing in old &amp; new MHE.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-12 col-12">
                 <div class="integrated_facility_text_div" data-aos="zoom-in" data-aos-duration="1000">
                     <h3> <span>06</span>Scrap Management, Handling and disposal </h3>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum
-                        fugiat amet
-                        vitae!</p>
+                    <p>We provide extraordinary services majorly for the scrap handling and various disposal
+                        activities with
+                        reduce, reuse and recycle applications as part of our commitment for a sustainable
+                        environment.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-12 col-12">
                 <div class="integrated_facility_text_div" data-aos="zoom-in" data-aos-duration="1000">
                     <h3> <span>07</span>Blue and White Collar staffing </h3>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum
-                        fugiat amet
-                        vitae!</p>
+                    <p>We provide Blue &amp; White collar services covering permanent, contract and temporary jobs
+                        in the major industries</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-12 col-12">
                 <div class="integrated_facility_text_div" data-aos="zoom-in" data-aos-duration="1000">
                     <h3> <span>08</span>E-waste management</h3>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum
-                        fugiat amet
-                        vitae!</p>
+                    <p>Through our strong back-end contract with certified e-waste management companies we
+                        establish a true reverse-logistics chain for e-waste, from consumers to recyclers</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-12 col-12">
                 <div class="integrated_facility_text_div" data-aos="zoom-in" data-aos-duration="1000">
                     <h3> <span>09</span>Aggregator / Integrator</h3>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem impedit perferendis eum
-                        fugiat amet
-                        vitae!</p>
+                    <p>We Procurement Service Provider (PSP) offer Procurement Outsourcing Services for our customers to
+                        Utilize
+                        opportunities to save cost (Tail-end management), Streamline processes enabling them to focus on
+                        their core
+                        business.</p>
                 </div>
             </div>
         </div>
@@ -200,7 +202,7 @@
 <!-- IT and Non-IT Supplies -->
 <section class="container section_mt" id="it">
     <div class="section_title_div">
-        <h3>IT and Non-IT <span>Non-IT</span> Supplies</h3>
+        <h3>IT and <span>Non-IT</span> Supplies</h3>
     </div>
     <div class="row g-4 mt-3">
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">

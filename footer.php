@@ -72,22 +72,19 @@
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
             <div class="footer_text_div">
                 <p>
-                    Award-winning, family owned dealership of new and pre-owned vehicles with several
-                    locations across the city. Lowest prices and the best customer service guaranteed.</p>
+                    Become our Partner page also. Looking for a franchisee. Contact us</p>
             </div>
         </div>
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-5 col-sm-12 col-12">
             <div class="footer_contact_div">
-                <a class="number" href="tel:+918155040101"> <span>+91</span> 8155040101</a>
-                <br>
-                <a class="number" href="tel:+918155040202"> <span>+91</span> 8155040202</a>
+                <p class="number m-0"><span>+91</span> 8155040101</p>
+
+                <p class="number m-0"> <span>+91</span> 8155040202</p>
 
                 <div>
-                    <a class="email" href="Sales_gujarat@efill.co.in">
-                        Sales_gujarat@efill.co.in </a>
-                    <br>
-                    <a class="email" href="efevgujarat@gmail.com">
-                        efevgujarat@gmail.com</a>
+                    <p>shivindservices@outlook.com</p>
+                    <p> Sales_gujarat@efill.co.in</p>
+                    <p>efevgujarat@gmail.com</p>
                 </div>
                 <p>Shiv Industrial Services
                     <br>

@@ -4,7 +4,7 @@
             <div class="top_nav_main_div_left">
                 <a href="mailto: shivindservices@outlook.com"><i class="far fa-envelope"></i>
                     <span>shivindservices@outlook.com</span></a>
-                <p><i class="far fa-clock"></i> <span>open hours: mon - fri 8:00 <span>am</span> - 6:00 <span>
+                <p><i class="far fa-clock"></i> <span>open hours: mon - sat 9:00 <span>am</span> - 7:00 <span>
                             pm</span> </span></p>
             </div>
         </div>

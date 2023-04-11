@@ -33,5 +33,23 @@
     </div>
 </section>
 <!-- about end -->
+<!-- about -->
+<section class="container section_mt ">
+    <div class="section_title_div">
+        <h3>Why choose <span>Shiv Industrial</span> Services?</h3>
+    </div>
+    <div class="index_about_div" data-aos="zoom-in" data-aos-delay="300">
+        <p>At Shiv Industrial Services, we aim to deliver smart, innovative, end-end solutions that
+            can help your organisation grow profitability, improve productivity and happy work
+            environment. We follow all statutory, regulatory and audit compliances enabling our
+            customers to focus on their core business activities. Over the past five years, Shiv
+            Industrial Services has become a renowned name in the industry by providing quality
+            services to some of the biggest Clients, including leading MNCs in the country. We offer
+            our employees all facilities including state-of-the-art trainings leading to world class
+            services customized as per customer requirements. We offer One-stop solution for all
+            our customers.</p>
+    </div>
+</section>
+<!-- about end -->
 <?php include 'mobile.php'; ?>
 <?php include 'footer.php'; ?>

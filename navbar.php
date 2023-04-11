@@ -25,12 +25,29 @@
                 class="<?php echo basename($_SERVER['PHP_SELF']) == 'contactus.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
                 <a class="nav-link" href="contactus.php">contact us </a>
             </li>
-            <li class="nav-item my_nav_item">
-                <a class="nav-link" href="index.php#Products">Products</a>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Products
+                </a>
+                <ul class="dropdown-menu fade-up">
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="index.php#it">
+                            IT &amp; Non-IT Supplies</a></li>
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="ev_chargers.php">
+                            EV-Chargers</a></li>
+                </ul>
             </li>
-            <li class="nav-item my_nav_item">
-                <a class="nav-link" href="index.php#EVCharging">Electric Vehicles</a>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">E-Mobility
+                </a>
+                <ul class="dropdown-menu fade-up">
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#">
+                            Muver</a></li>
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#">
+                            Hauler</a></li>
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#">
+                            LFTea</a></li>
+                </ul>
             </li>
+
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Services
                 </a>
@@ -49,11 +66,10 @@
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> Electric Charging Solution
                 </a>
                 <ul class="dropdown-menu fade-up">
-                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="ev_chargers.php">
-                            EV-Chargers</a></li>
+
 
                     <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item"
-                            href="ev_charger_franchise.php">EV-Charger-Franchise</a>
+                            href="ev_charger_franchise.php">EV-Charger-Franchisee</a>
                     </li>
                     <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="smart_lot_telematics.php">
                             Smart IOT & Telematics

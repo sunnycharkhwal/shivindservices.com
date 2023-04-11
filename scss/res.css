@@ -599,6 +599,9 @@
 }
 
 @media (min-width: 1024px) {
+  .integrated_facility_text_div p {
+    font-size: 10px;
+  }
   .photo_list_div img {
     width: 88%;
     height: 40rem;
@@ -805,6 +808,9 @@
 }
 
 @media (min-width: 1440px) {
+  .integrated_facility_text_div p {
+    font-size: 12px;
+  }
   .add_section_title {
     margin-left: 14rem;
   }
@@ -871,7 +877,7 @@
   }
   .point9 {
     position: absolute;
-    bottom: -5rem;
+    bottom: -6rem;
     right: 31rem;
   }
   .integrated_facility_text_div {
