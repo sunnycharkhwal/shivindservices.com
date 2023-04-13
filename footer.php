@@ -38,32 +38,32 @@
 <footer class="footer">
     <div class="row g-4">
         <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-3 col-sm-12 col-12">
-            <img class="footer_logo" src="img/logo2.webp" alt="logo">
+            <img class="footer_logo" src="img/logo5.webp" alt="logo">
         </div>
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
             <div class="footer_link">
                 <div class="row">
                     <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                         <div class="footer_link_inner">
-                            <a href="aboutus.php">about us </a>
+                            <a href="aboutus">about us </a>
                         </div>
                         <div class="footer_link_inner">
-                            <a href="contactus.php">contact us </a>
+                            <a href="contactus">contact us </a>
                         </div>
                         <div class="footer_link_inner">
-                            <a href="ev_chargers.php"> EV-Chargers</a>
+                            <a href="ev_chargers"> EV-Chargers</a>
                         </div>
                     </div>
                     <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                         <div class="footer_link_inner">
-                            <a href="ev_charger_franchise.php">EV-Charger-Franchise</a>
+                            <a href="ev_charger_franchise">EV-Charger-Franchisee</a>
                         </div>
                         <div class="footer_link_inner">
-                            <a href="smart_lot_telematics.php"> Smart IOT & Telematics </a>
+                            <a href="smart_lot_telematics"> Smart IOT & Telematics </a>
                         </div>
 
                         <div class="footer_link_inner">
-                            <a href="privacy_policy.php">Privacy policy</a>
+                            <a href="privacy_policy">Privacy policy</a>
                         </div>
                     </div>
                 </div>
@@ -72,7 +72,7 @@
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
             <div class="footer_text_div">
                 <p>
-                    Become our Partner page also. Looking for a franchisee. Contact us</p>
+                    Become our Partner. Looking for a franchisee. <a href="contactus">Contact us</a></p>
             </div>
         </div>
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-5 col-sm-12 col-12">

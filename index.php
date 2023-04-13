@@ -205,7 +205,7 @@
         <h3>IT and <span>Non-IT</span> Supplies</h3>
     </div>
     <div class="row g-4 mt-3">
-        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
@@ -218,7 +218,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
@@ -231,7 +231,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
@@ -244,7 +244,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
@@ -257,7 +257,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
@@ -271,7 +271,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
             <div class="it_card">
                 <div class="it_card_img_uper">
                     <div class="it_card_img">
@@ -284,19 +284,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12">
-            <div class="it_card">
-                <div class="it_card_img_uper">
-                    <div class="it_card_img">
-                        <div class="it_card_img_inner" style="background-image: url('img/it7.webp');"></div>
-                    </div>
-                </div>
-                <h3>Stationery &amp; Housekeeping</h3>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, repudiandae.
-                </p>
-            </div>
-        </div>
+
     </div>
 </section>
 <!-- IT and Non-IT Supplies end -->
@@ -385,7 +373,7 @@
 <!-- Professional Consultancy Services end -->
 
 <!-- Electric Vehicles -->
-<section class="section_mt" id="EVCharging">
+<!-- <section class="section_mt" id="EVCharging">
     <div>
         <div class="section_title_div">
             <h3>Electric <span> Vehicles</span></h3>
@@ -417,7 +405,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- Electric Vehicles end -->
 <!-- Electric Vehicle Charging Solution -->
 <section class="container section_mt" id="Products">

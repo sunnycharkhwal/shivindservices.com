@@ -7,7 +7,7 @@
                 <h3 class="ev_charger_franchise_top">EV Charger Franchise</h3>
                 <div class="all_page_top_lay_line"></div>
                 <div class="all_page_top_lay_link">
-                    <a href="index.php">home</a>
+                    <a href="index">home</a>
                     <span>/</span>
                     <p>EV Charger Franchise</p>
                 </div>
@@ -243,7 +243,7 @@
             </ul>
         </div>
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 point_div_all_new">
-            <img src="img/eva.webp" alt="point">
+            <img src="img/n7.webp" alt="point">
         </div>
     </div>
 </section>

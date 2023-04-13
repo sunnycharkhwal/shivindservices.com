@@ -30,6 +30,7 @@ a {
   align-items: center;
 }
 // nav
+
 .my_nav_item_drop {
   a {
     &::before {
@@ -66,7 +67,7 @@ body.offcanvas-active {
   visibility: visible;
 }
 .logo {
-  width: 11rem;
+  width: 8rem;
   margin-left: 15px;
 }
 .my_navbar {
@@ -1268,7 +1269,7 @@ ul {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin: 0;
-    margin-bottom: 10px;
+    margin-bottom: 2rem;
   }
   p {
     margin-bottom: 0;
@@ -1340,6 +1341,7 @@ ul {
 }
 // our_usp_ end
 // ev_chargers
+
 .x3_img {
   width: 100%;
   height: 36rem;
@@ -1347,20 +1349,18 @@ ul {
 }
 .add_section_col {
   display: flex;
-  justify-content: end;
+  justify-content: center;
+  align-items: center;
 }
 .add_section {
   background-color: $c1;
   padding: 2rem 0;
-  ul {
-    display: flex;
-    img {
-      @include bg_img;
-      width: 5rem;
-      height: 5rem;
-      margin-right: 10px;
-      border-radius: 6px;
-    }
+  img {
+    @include bg_img;
+    width: 20rem;
+    height: 26rem;
+    margin: auto;
+    border-radius: 6px;
   }
 }
 .add_section_text {
@@ -1379,13 +1379,13 @@ ul {
   }
 }
 .add_section_title {
-  margin-left: 14rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
   h3 {
     font-size: 30px;
     font-weight: 800;
     color: white;
     margin-top: 5px;
-    width: 29rem;
     text-transform: capitalize;
   }
   p {
@@ -1463,3 +1463,42 @@ ul {
   }
 }
 // privcy end
+.management_system_img_new {
+  @include bg_img;
+  height: 34rem;
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.management_system_img_new_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+.management_system_img_new3 {
+  @include bg_img;
+  height: 8rem;
+  width: 20rem;
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.muver_sub_div {
+  text-align: center;
+  img {
+    @include bg_img;
+    width: 14rem;
+    height: 14rem;
+    border-radius: 100%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 7px solid $c1;
+    margin-bottom: 1rem;
+  }
+  h3 {
+    font-size: 21px;
+    text-transform: capitalize;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: $c1;
+  }
+}

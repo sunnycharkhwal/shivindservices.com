@@ -8,7 +8,7 @@
                 <h3>privacy policy</h3>
                 <div class="all_page_top_lay_line"></div>
                 <div class="all_page_top_lay_link">
-                    <a href="index.php">home</a>
+                    <a href="index">home</a>
                     <span>/</span>
                     <p>privacy policy</p>
                 </div>

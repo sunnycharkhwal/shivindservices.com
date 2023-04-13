@@ -8,7 +8,7 @@
                 <h3 class="ev_charger_franchise_top">smart lot telematics</h3>
                 <div class="all_page_top_lay_line"></div>
                 <div class="all_page_top_lay_link">
-                    <a href="index.php">home</a>
+                    <a href="index">home</a>
                     <span>/</span>
                     <p>smart lot telematics</p>
                 </div>
@@ -45,19 +45,11 @@
                 <div class="management_system_div">
                     <h3>E-Fill Electric Charging Management System</h3>
                     <p data-aos="fade-up" data-aos-duration="3000">E-Fill ev charging app & CMS are best suited for
-                        commercial & private charging stations. Our CMS
-                        helps you in live monitoring. Tariff management along with many other exciting advance features
-                        to run EV charging business efficiently.
+                        commercial & private charging stations. Our CMS helps you in live monitoring. Tariff management
+                        along with many other exciting advance features to run EV charging business efficiently.
                         <br>
                         With E-Fill monitoring your EV charging is possible at fingertips. You can access the CMS – on
                         desktop as well as mobile phone using our application.
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium repellendus eum unde, quod
-                        maiores hic, magnam repellat aut, dolor laudantium voluptate harum modi ullam quasi deleniti?
-                        Ratione fugiat sit nesciunt.
-                        <br>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto maxime, quidem, sequi a
-                        repellendus minima esse asperiores numquam, tenetur nulla voluptates? Maiores quo ex tenetur hic
-                        placeat quia delectus voluptas! lorem20
                     </p>
                 </div>
             </div>
@@ -74,20 +66,9 @@
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 order-md-2 order-1">
                 <div class="management_system_div">
                     <h3>E-Fill Electric Telematics/ IOT Solution</h3>
-                    <p data-aos="fade-up" data-aos-duration="3000">E-Fill ev charging app & CMS are best suited for
-                        commercial & private charging stations. Our CMS
-                        helps you in live monitoring. Tariff management along with many other exciting advance features
-                        to run EV charging business efficiently.
-                        <br>
-                        With E-Fill monitoring your EV charging is possible at fingertips. You can access the CMS – on
-                        desktop as well as mobile phone using our application.
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium repellendus eum unde, quod
-                        maiores hic, magnam repellat aut, dolor laudantium voluptate harum modi ullam quasi deleniti?
-                        Ratione fugiat sit nesciunt.
-                        <br>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto maxime, quidem, sequi a
-                        repellendus minima esse asperiores numquam, tenetur nulla voluptates? Maiores quo ex tenetur hic
-                        placeat quia delectus voluptas! lorem20
+                    <p data-aos="fade-up" data-aos-duration="3000">E-Fill EV Telematics allows you to keep a bird-eye on
+                        your E-vehicle/ fleet and thereby help you to improve fleet utilization, optimize charging
+                        cycles, enhance battery life and track your EV partners and operators performance.
                     </p>
                 </div>
             </div>
@@ -184,85 +165,16 @@
         <h3>Dashboard <span>View</span></h3>
     </div>
     <div class="index_about_div" data-aos="zoom-in" data-aos-delay="300">
-        <p>E-Fill ev charging app & CMS are best suited for commercial & private charging stations. Our CMS
+        <p>E-Fill EV charging app & CMS are best suited for commercial & private charging stations. Our CMS
             helps you in
             live monitoring. Tariff management along with many other exciting advance features to run EV charging
             business efficiently.
             With E-Fill monitoring your EV charging is possible at fingertips. You can access the CMS – on desktop as
             well as mobile phone using our application.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quod dolore explicabo iure voluptatum eius eos
-            lorem20
-            autem aut, quas nihil maxime facilis iste soluta error itaque atque illo beatae reiciendis. Lorem ipsum
-            dolor sit amet consectetur adipisicing elit. Sit esse excepturi voluptate dolor eum laboriosam quo eius
-            corporis, provident blanditiis.
         </p>
     </div>
     <img class="dashboard_view_img" src="img/ds.webp" alt="Dashboard View" data-aos="zoom-in">
 </section>
 <!-- Dashboard View end -->
-<!-- Our USPs -->
-<section class=" container section_mt  ">
-    <div class="section_title_div">
-        <h3>Our <span>USPs</span></h3>
-    </div>
-    <div class="services_card_div_new">
-        <div class="row g-4 all_top">
-            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
-                data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-                <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP1.webp');"></div>
-                    <h3>live asset tracking</h3>
-                    <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
-                        recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>
-                </div>
-            </div>
-            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
-                data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-                <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP2.webp');"></div>
-                    <h3>shipment tracking</h3>
-                    <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
-                        recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>
-                </div>
-            </div>
-            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
-                data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-                <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP3.webp');"></div>
-                    <h3>identity theft</h3>
-                    <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
-                        recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>
-                </div>
-            </div>
-            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
-                data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-                <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP4.webp');"></div>
-                    <h3>real-time alerts</h3>
-                    <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
-                        recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>
-                </div>
-            </div>
-            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
-                data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-                <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP5.webp');"></div>
-                    <h3>reporting</h3>
-                    <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
-                        recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>
-                </div>
-            </div>
-            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" data-aos="zoom-in-down"
-                data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-                <div class="services_card_div ">
-                    <div class="services_card_div_img" style="background-image: url('img/USP6.webp');"></div>
-                    <h3>expense management</h3>
-                    <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores suscipit repellat
-                        recusandae in accusantium corporis ex fugit omnis. Aperiam? </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Our USPs -->
+
 <?php include 'footer.php'; ?>

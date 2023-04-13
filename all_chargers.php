@@ -7,7 +7,7 @@
                 <h3 class="ev_charger_franchise_top">all chargers</h3>
                 <div class="all_page_top_lay_line"></div>
                 <div class="all_page_top_lay_link">
-                    <a href="index.php">home</a>
+                    <a href="index">home</a>
                     <span>/</span>
                     <p>all chargers</p>
                 </div>
@@ -41,14 +41,6 @@
             <div class="photo_list_div">
                 <img src="img/4.webp" alt="all chargers" data-tilt>
             </div>
-        </div>
-    </div>
-</section>
-<section class="bg_div photo_new">
-    <div class="bg_div_inner">
-        <div class="bg_div_inner_text">
-            <h3>“Want to know what is best for you ?</h3>
-            <a href="portable_chargers.php" class="btn let_talk_btn">Click here to view Portable Chargers</a>
         </div>
     </div>
 </section>

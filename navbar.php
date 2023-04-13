@@ -8,30 +8,30 @@
         <div class="offcanvas-header">
             <button class="btn-close float-end"></button>
         </div>
-        <a class="navbar-brand" href="index.php">
-            <img class="logo" src="img/logo.webp" alt="logo">
+        <a class="navbar-brand" href="index">
+            <img class="logo" src="img/logo4.webp" alt="logo">
         </a>
 
         <ul class="navbar-nav" id="myDIV">
             <li
                 class="<?php echo basename($_SERVER['PHP_SELF']) == 'index.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
-                <a class="nav-link" href="index.php">home </a>
+                <a class="nav-link" href="index">home </a>
             </li>
             <li
                 class="<?php echo basename($_SERVER['PHP_SELF']) == 'aboutus.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
-                <a class="nav-link" href="aboutus.php">about us </a>
+                <a class="nav-link" href="aboutus">about us </a>
             </li>
             <li
                 class="<?php echo basename($_SERVER['PHP_SELF']) == 'contactus.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
-                <a class="nav-link" href="contactus.php">contact us </a>
+                <a class="nav-link" href="contactus">contact us </a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Products
                 </a>
                 <ul class="dropdown-menu fade-up">
-                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="index.php#it">
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="index#it">
                             IT &amp; Non-IT Supplies</a></li>
-                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="ev_chargers.php">
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="ev_chargers">
                             EV-Chargers</a></li>
                 </ul>
             </li>
@@ -39,11 +39,11 @@
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">E-Mobility
                 </a>
                 <ul class="dropdown-menu fade-up">
-                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#">
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="muver">
                             Muver</a></li>
-                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#">
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="hauler">
                             Hauler</a></li>
-                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="#">
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="lftea">
                             LFTea</a></li>
                 </ul>
             </li>
@@ -52,12 +52,12 @@
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Services
                 </a>
                 <ul class="dropdown-menu fade-up">
-                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="index.php#ifm">Integrated
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="index#ifm">Integrated
                             Facility
                             Management
                             Services</a></li>
                     <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item"
-                            href="index.php#consultancy">Professional
+                            href="index#consultancy">Professional
                             Consultancy
                             Services</a></li>
                 </ul>
@@ -69,9 +69,9 @@
 
 
                     <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item"
-                            href="ev_charger_franchise.php">EV-Charger-Franchisee</a>
+                            href="ev_charger_franchise">EV-Charger-Franchisee</a>
                     </li>
-                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="smart_lot_telematics.php">
+                    <li class="my_nav_item my_nav_item_drop"><a class="dropdown-item" href="smart_lot_telematics">
                             Smart IOT & Telematics
                         </a></li>
 
