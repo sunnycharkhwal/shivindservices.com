@@ -38,7 +38,7 @@
 <footer class="footer">
     <div class="row g-4">
         <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-3 col-sm-12 col-12">
-            <img class="footer_logo" src="img/logo5.webp" alt="logo">
+            <img class="footer_logo" src="img/logo.webp" alt="logo">
         </div>
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
             <div class="footer_link">
@@ -72,14 +72,15 @@
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
             <div class="footer_text_div">
                 <p>
-                    Become our Partner. Looking for a franchisee. <a href="contactus">Contact us</a></p>
+                    Become our Partner. Looking for a franchisee. <a class="btn let_talk_btn" href="contactus">Contact
+                        us</a></p>
             </div>
         </div>
         <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-5 col-sm-12 col-12">
             <div class="footer_contact_div">
-                <p class="number m-0"><span>+91</span> 8155040101</p>
+                <p class="number m-0"><span>+91</span> 8980022288</p>
 
-                <p class="number m-0"> <span>+91</span> 8155040202</p>
+                <p class="number m-0"> <span>+91</span> 8980022299</p>
 
                 <div>
                     <p>shivindservices@outlook.com</p>
@@ -103,10 +104,10 @@
     </div>
 </footer>
 <!-- footer end -->
-<a href="https://wa.me/918155040101" class="float" target="_blank">
+<a href="https://wa.me/918980022288" class="float" target="_blank">
     <i class="fab fa-whatsapp my-float"></i>
 </a>
-<a id="button"></a>
+<!-- <a id="button"></a> -->
 <!-- script -->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>
@@ -143,34 +144,8 @@
         document.documentElement.scrollTop = 0;
     }
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
-    integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
-    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
-    integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
-    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script>
-    $('.owl-carousel').owlCarousel({
-        loop: true,
-        margin: 10,
-        nav: true,
-        autoplay: true,
-        responsive: {
-            0: {
-                items: 1,
-            },
-            600: {
-                items: 1,
-            },
-            1024: {
-                items: 1,
-            },
-            1440: {
-                items: 1,
-            },
-        }
-    })
-</script>
+
+
 <!-- script end -->
 </body>
 

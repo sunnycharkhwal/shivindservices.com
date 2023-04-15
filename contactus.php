@@ -8,7 +8,7 @@
                 <h3>contact us</h3>
                 <div class="all_page_top_lay_line"></div>
                 <div class="all_page_top_lay_link">
-                    <a href="index">home</a>
+                    <a href="/">home</a>
                     <span>/</span>
                     <p>contact us</p>
                 </div>

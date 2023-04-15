@@ -8,7 +8,7 @@
                 <h3 class="ev_charger_franchise_top">smart lot telematics</h3>
                 <div class="all_page_top_lay_line"></div>
                 <div class="all_page_top_lay_link">
-                    <a href="index">home</a>
+                    <a href="/">home</a>
                     <span>/</span>
                     <p>smart lot telematics</p>
                 </div>

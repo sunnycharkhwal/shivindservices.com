@@ -8,7 +8,7 @@
                 <h3>hauler</h3>
                 <div class="all_page_top_lay_line"></div>
                 <div class="all_page_top_lay_link">
-                    <a href="index">home</a>
+                    <a href="/">home</a>
                     <span>/</span>
                     <p>hauler</p>
                 </div>
@@ -29,8 +29,8 @@
                         data-aos-duration="3000">
                 </div>
                 <div class="management_system_img_new_div">
-                    <img class="management_system_img_new3" src="img/n22.webp" alt="Management System" data-aos="fade-up"
-                        data-aos-duration="3000">
+                    <img class="management_system_img_new3" src="img/n22.webp" alt="Management System"
+                        data-aos="fade-up" data-aos-duration="3000">
                 </div>
             </div>
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
@@ -39,8 +39,8 @@
                         data-aos-duration="3000">
                 </div>
                 <div class="management_system_img_new_div">
-                    <img class="management_system_img_new3" src="img/n23.webp" alt="Management System" data-aos="fade-up"
-                        data-aos-duration="3000">
+                    <img class="management_system_img_new3" src="img/n23.webp" alt="Management System"
+                        data-aos="fade-up" data-aos-duration="3000">
                 </div>
             </div>
         </div>

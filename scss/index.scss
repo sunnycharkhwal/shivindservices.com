@@ -495,7 +495,7 @@ body.offcanvas-active {
 // IT and Non-IT Supplies
 .it_card {
   position: relative;
-  cursor: pointer;
+  // cursor: pointer;
   text-transform: capitalize;
   text-align: center;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -725,6 +725,10 @@ body.offcanvas-active {
     font-size: 15px;
     font-weight: 500;
     margin-bottom: 0;
+    text-align: center;
+    a {
+      margin-top: 1.5rem;
+    }
   }
 }
 .footer_contact_div {
@@ -1456,7 +1460,7 @@ ul {
 .privcy_div {
   p {
     font-size: 15px;
-    margin-bottom: 0;
+    margin-bottom: 6px;
     font-weight: 400;
     color: #666;
     text-align: justify;
@@ -1501,4 +1505,24 @@ ul {
     letter-spacing: 1px;
     color: $c1;
   }
+}
+// mobile nev
+.logo_mobile {
+  width: 6rem;
+  @include bg_img;
+}
+
+.mobile_menu_div {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  i {
+    cursor: pointer;
+    font-size: 25px;
+  }
+}
+.mobile_menu_div_top {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 2px 5px #11111138;
 }

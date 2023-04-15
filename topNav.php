@@ -10,7 +10,7 @@
         </div>
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-4 col-sm-12 col-12">
             <div class="top_nav_main_div_right">
-                <a href="tel:+91 8155040101"><i class="fas fa-phone"></i> <span>+91 8155040101</span></a>
+                <a href="tel:+91 8980022288"><i class="fas fa-phone"></i> <span>+91 8980022288</span></a>
                 <div class="top_nav_main_div_right_inner">
                     <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></span></a>
                     <a href="#" target="_blank"><i class="fab fa-twitter"></i></span></a>

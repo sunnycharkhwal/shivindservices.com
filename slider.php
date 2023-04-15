@@ -35,7 +35,7 @@
             <div class="my_slider2_text_div_over"></div>
             <div class="txt zoom-in-out-box">
 
-                <small># WE PROVIDE IT SERVICES
+                <small># WE PROVIDE IT &amp; NON-IT SERVICES
                 </small>
                 <h3 class="text_black">We Provide <span>IT</span> &amp; Non-IT Supplies
                 </h3>

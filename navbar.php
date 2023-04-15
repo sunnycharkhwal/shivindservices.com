@@ -1,6 +1,14 @@
 <span class="screen-darken"></span>
-<button data-trigger="navbar_main" class="d-lg-none btn btn-warning" type="button"> Show navbar </button>
-
+<div class="d-lg-none">
+    <div class="mobile_menu_div_top">
+        <div class="row m-0">
+            <div class="col-6"><img class="logo_mobile" src="img/logo.webp" alt="logo"></div>
+            <div class="col-6 mobile_menu_div">
+                <i class="fas fa-bars" data-trigger="navbar_main"></i>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- ============= COMPONENT ============== -->
 <nav id="navbar_main" class="mobile-offcanvas navbar navbar-expand-lg my_navbar">
@@ -8,14 +16,14 @@
         <div class="offcanvas-header">
             <button class="btn-close float-end"></button>
         </div>
-        <a class="navbar-brand" href="index">
-            <img class="logo" src="img/logo4.webp" alt="logo">
+        <a class="navbar-brand" href="/">
+            <img class="logo" src="img/logo.webp" alt="logo">
         </a>
 
         <ul class="navbar-nav" id="myDIV">
             <li
                 class="<?php echo basename($_SERVER['PHP_SELF']) == 'index.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
-                <a class="nav-link" href="index">home </a>
+                <a class="nav-link" href="/">home </a>
             </li>
             <li
                 class="<?php echo basename($_SERVER['PHP_SELF']) == 'aboutus.php' ? 'nav_active' : 'nav-item my_nav_item'; ?>">
@@ -80,7 +88,7 @@
 
         </ul>
         <ul class="navbar-nav ms-auto right_nav">
-            <li class="nav-item"><a class="btn let_talk_btn" href="tel:+91 8155040101">let's Talk</a></li>
+            <li class="nav-item"><a class="btn let_talk_btn" href="tel:+91 8980022288">let's Talk</a></li>
         </ul>
 
     </div> <!-- container-fluid.// -->
