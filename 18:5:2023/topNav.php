@@ -12,7 +12,8 @@
             <div class="top_nav_main_div_right">
                 <a href="tel:+91 8980022288"><i class="fas fa-phone"></i> <span>+91 8980022288</span></a>
                 <div class="top_nav_main_div_right_inner">
-                    <a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></span></a>
+                    <a href="https://www.linkedin.com/company/shiv-industrial-services/about/" target="_blank"><i
+                            class="fab fa-linkedin-in"></i></span></a>
                     <a href="https://twitter.com/shivindservices?s=11&t=uNRb2yrSOtFFMjanQt9bLA" target="_blank"><i
                             class="fab fa-twitter"></i></span></a>
                     <a href="https://www.instagram.com/shivindservices/?igshid=NTc4MTIwNjQ2YQ%3D%3D" target="_blank"><i
