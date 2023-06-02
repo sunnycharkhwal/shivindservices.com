@@ -1,0 +1,11 @@
+@mixin bg_img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+@mixin b1 {
+  border: 1px solid #ced4da;
+}
+@mixin bg {
+  background-image: linear-gradient(to left, #45a401 0%, #9ee213 100%);
+}
