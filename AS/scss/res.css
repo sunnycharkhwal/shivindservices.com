@@ -1,0 +1,488 @@
+@media (max-width: 576px) {
+  .index_about_text_div2 p {
+    width: 100%;
+  }
+  .top_header_all_page {
+    margin-top: 0;
+  }
+  .top_header_text_div h3 {
+    font-size: 50px;
+  }
+  .recognized_img_div2 {
+    display: block;
+    text-align: center;
+    margin-top: 0;
+  }
+  .recognized_img_div2 img {
+    width: 9rem;
+    margin-left: 0;
+  }
+  .recognized_img_div {
+    display: block;
+    text-align: center;
+    margin-top: 0;
+  }
+  .recognized_img_div img {
+    width: 8rem;
+  }
+  .electric_vehicle p {
+    font-size: 13px;
+  }
+  .electric_vehicle_img {
+    width: 100%;
+    height: 14rem;
+  }
+  .pcs_top_div .title_index_about {
+    margin-bottom: 1rem;
+  }
+  .pcs_inner_img_div {
+    margin-bottom: 1rem;
+    margin-right: 0;
+  }
+  .pcs_inner_div {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .pcs_inner_div li {
+    text-align: center;
+  }
+  .mobile_app {
+    font-size: 25px !important;
+  }
+  .mobile_app_store_img_div {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .mobile_app_store_img_div img {
+    width: 15rem;
+    height: 5rem;
+    margin-bottom: 10px;
+  }
+  .index_mobile_img {
+    width: 18rem;
+    height: 20rem;
+  }
+  .it_div_top h3 {
+    font-size: 17px;
+  }
+  .it_div_top img {
+    width: 3rem;
+    height: 3rem;
+  }
+  .ifm_card_text_div {
+    width: auto;
+    margin-left: 20px;
+  }
+  .ifm_card_text_div h3 {
+    font-size: 15px;
+    color: #8cc63f;
+  }
+  .ifm_card_text_div p {
+    line-height: 18px;
+    font-size: 11px;
+  }
+  .ifm_card_top_div {
+    width: auto;
+  }
+  .ifm_card_div {
+    width: auto;
+  }
+  .ifm_card_div .ifm_img {
+    width: auto;
+  }
+  .index_page_btn_div {
+    height: 6rem;
+    margin: auto;
+    border: 1px solid #8cc63f;
+  }
+  .index_page_btn_div p {
+    display: none;
+  }
+  .index_page_btn_div img {
+    width: 2rem;
+    height: 2rem;
+  }
+  .index_page_btn_div h3 {
+    font-size: 10px;
+  }
+  .title_index_about h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .title_index_about p {
+    justify-content: center;
+  }
+  .index_about_text_div p {
+    margin-bottom: 5px;
+    font-size: 12px;
+    letter-spacing: normal;
+    line-height: 17px;
+  }
+  .index_about_img {
+    width: 18rem;
+    height: 13rem;
+  }
+  .slider_2_title {
+    font-size: 23px !important;
+  }
+  .slider_4_title {
+    font-size: 17px !important;
+  }
+  .slider_text_div {
+    background: rgba(255, 255, 255, 0.6784313725);
+    top: 14px;
+    left: 1rem;
+    width: 90%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .slider_text_div h1 {
+    font-size: 25px;
+    text-align: center;
+  }
+  .slider_text_div p {
+    font-size: 12px;
+    text-align: center;
+  }
+  .slider_text_div .nav_contact_btn {
+    width: 100%;
+    height: 40px;
+  }
+  .slider_my img {
+    height: 16rem;
+  }
+  .nav_my_top {
+    margin-top: 0;
+  }
+  .owl-theme {
+    margin-top: 0;
+  }
+  .my_dropdown .dropdown-menu .dropdown-item {
+    font-size: 11px;
+  }
+  .mobile-offcanvas {
+    width: 100% !important;
+  }
+  .nav_bg {
+    padding: 0;
+  }
+  .nav_bg .container {
+    padding-left: 0 !important;
+    padding-top: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .top_header_all_page {
+    margin-top: 0;
+  }
+  .recognized_img_div2 img {
+    width: 11rem;
+    margin-left: 0;
+  }
+  .recognized_img_div img {
+    width: 8rem;
+  }
+  .electric_vehicle_img {
+    width: 19rem;
+    height: 16rem;
+  }
+  .index_mobile_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .mobile_app {
+    font-size: 30px !important;
+  }
+  .mobile_app_store_img_div {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .index_mobile_img {
+    width: 27rem;
+    height: 20rem;
+  }
+  .ifm_card_text_div {
+    width: auto;
+    margin-left: 20px;
+  }
+  .ifm_card_top_div {
+    width: auto;
+  }
+  .ifm_card_div {
+    width: auto;
+  }
+  .ifm_card_div .ifm_img {
+    width: auto;
+  }
+  .index_about_img {
+    width: 32rem;
+    height: 22rem;
+  }
+  .index_about_text_div p {
+    font-size: 12px;
+  }
+  .slider_2_title {
+    font-size: 35px !important;
+  }
+  .slider_4_title {
+    font-size: 25px !important;
+  }
+  .slider_my img {
+    height: 30rem;
+  }
+  .slider_text_div {
+    top: 8rem;
+    left: 1rem;
+    width: 22rem;
+  }
+  .slider_text_div h1 {
+    font-size: 30px;
+  }
+  .slider_text_div p {
+    font-size: 12px;
+  }
+  .nav_my_top {
+    margin-top: 0;
+  }
+  .owl-theme {
+    margin-top: 0;
+  }
+}
+@media all and (max-width: 991px) {
+  .offcanvas-header {
+    display: block;
+  }
+  .mobile-offcanvas {
+    visibility: hidden;
+    transform: translateX(-100%);
+    border-radius: 0;
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    z-index: 1200;
+    width: 80%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    transition: visibility 0.3s ease-in-out, transform 0.3s ease-in-out;
+  }
+  .mobile-offcanvas.show {
+    visibility: visible;
+    transform: translateX(0);
+  }
+  .mobile-offcanvas .container,
+  .mobile-offcanvas .container-fluid {
+    display: block;
+  }
+}
+@media all and (min-width: 992px) {
+  .navbar .dropdown-menu-end {
+    right: 0;
+    left: auto;
+  }
+  .navbar .nav-item .dropdown-menu {
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+    margin-top: 0;
+  }
+  .navbar .dropdown-menu.fade-down {
+    top: 80%;
+    transform: rotateX(-75deg);
+    transform-origin: 0% 0%;
+  }
+  .navbar .dropdown-menu.fade-up {
+    top: 180%;
+  }
+  .navbar .nav-item:hover .dropdown-menu {
+    transition: 0.3s;
+    opacity: 1;
+    visibility: visible;
+    top: 100%;
+    transform: rotateX(0deg);
+  }
+}
+@media (min-width: 1024px) {
+  .top_header_all_page {
+    margin-top: -25px;
+  }
+  .footer_link ul li {
+    font-size: 13px;
+  }
+  .recognized_img_div2 img {
+    width: 15rem;
+    margin-left: 18px;
+  }
+  .recognized_img_div img {
+    width: 12rem;
+  }
+  .electric_vehicle_img {
+    width: 24rem;
+    height: 20rem;
+  }
+  .index_mobile_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+  }
+  .mobile_app_store_img_div {
+    margin-top: 20px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
+  .mobile_app {
+    font-size: 40px !important;
+  }
+  .index_mobile_img {
+    width: 28rem;
+    height: 27rem;
+  }
+  .ifm_card_text_div {
+    width: auto;
+    margin-left: 20px;
+  }
+  .ifm_card_top_div {
+    width: auto;
+  }
+  .ifm_card_div {
+    width: auto;
+  }
+  .ifm_card_div .ifm_img {
+    width: auto;
+  }
+  .index_page_btn_div img {
+    width: 4rem;
+    height: 4rem;
+  }
+  .index_page_btn_div h3 {
+    font-size: 16px;
+  }
+  .index_page_btn_div p {
+    font-size: 11px;
+  }
+  .index_about_img {
+    width: 30rem;
+    height: 21rem;
+  }
+  .index_about_text_div p {
+    font-size: 15px;
+  }
+  .slider_2_title {
+    font-size: 44px !important;
+  }
+  .slider_4_title {
+    font-size: 31px !important;
+  }
+  .slider_text_div {
+    top: 8rem;
+    left: 1rem;
+    width: 30rem;
+  }
+  .slider_text_div h1 {
+    font-size: 44px;
+  }
+  .slider_text_div p {
+    font-size: 17px;
+  }
+  .nav_my_top {
+    margin-top: -30px;
+  }
+  .owl-theme {
+    margin-top: -30px;
+  }
+  .nav_contact_btn {
+    width: 8rem;
+  }
+  .nav_bg .navbar-nav li .nav-link {
+    font-size: 13px;
+  }
+  .top_nav_itms span {
+    font-size: 12px;
+  }
+  .top_nav_logo img {
+    width: 11rem;
+  }
+}
+@media (min-width: 1440px) {
+  .footer_link ul li {
+    font-size: 15px;
+  }
+  .mobile_app {
+    font-size: 50px !important;
+  }
+  .index_mobile_img {
+    width: 35rem;
+    height: 27rem;
+  }
+  .ifm_card_text_div {
+    width: 95%;
+    margin-left: 20px;
+  }
+  .ifm_card_top_div {
+    width: 25rem;
+  }
+  .ifm_card_div {
+    width: 25rem;
+  }
+  .ifm_card_div .ifm_img {
+    width: 25rem;
+  }
+  .index_page_btn_div img {
+    width: 5rem;
+    height: 5rem;
+  }
+  .index_page_btn_div h3 {
+    font-size: 20px;
+  }
+  .index_page_btn_div p {
+    font-size: 13px;
+  }
+  .slider_2_title {
+    font-size: 50px !important;
+  }
+  .slider_4_title {
+    font-size: 41px !important;
+  }
+  .slider_my img {
+    height: 42rem;
+  }
+  .slider_text_div {
+    top: 13rem;
+    left: 7rem;
+    width: 35rem;
+  }
+  .slider_text_div h1 {
+    font-size: 55px;
+  }
+  .slider_text_div p {
+    font-size: 20px;
+  }
+  .nav_contact_btn {
+    width: 14rem;
+  }
+  .nav_bg .navbar-nav li .nav-link {
+    font-size: 15px;
+  }
+  .top_nav_itms span {
+    font-size: 13px;
+  }
+  .top_nav_logo img {
+    width: 12rem;
+  }
+}/*# sourceMappingURL=res.css.map */

@@ -1,0 +1,712 @@
+@import "--var.scss";
+@import "--mixing.scss";
+
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Quicksand", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+ul {
+  list-style-type: none !important;
+}
+a {
+  text-decoration: none !important;
+}
+.btn.focus,
+.btn:focus {
+  outline: 0;
+  box-shadow: unset;
+}
+// top nav
+.top_nav_itms {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+  img {
+    width: 2.5rem;
+    height: 2.5rem;
+    @include bg_img;
+    margin-right: 1rem;
+  }
+  p {
+    margin-bottom: 0;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #60626d;
+    text-transform: none;
+    font-weight: 400;
+    font-style: normal;
+  }
+  a {
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #131419;
+    text-transform: none;
+    font-weight: 700;
+    font-style: normal;
+    transition: all 0.3s ease-in-out;
+    &:hover {
+      color: $g;
+    }
+  }
+  span {
+    transition: all 0.3s ease-in-out;
+    font-size: 13px;
+    font-weight: 550;
+  }
+}
+.top_nav_logo {
+  img {
+    @include bg_img;
+    width: 12rem;
+  }
+}
+.top_nav_mmain_div {
+  background-color: white;
+  padding: 0.5rem 0;
+  padding-bottom: 3rem;
+}
+// top nav end
+// nav
+.logo_mobile {
+  width: 6rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.mobile_menu_div {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  i {
+    cursor: pointer;
+    font-size: 25px;
+  }
+}
+.mobile_menu_div_top {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.nav_bg {
+  background-color: $g;
+  padding-left: 1rem;
+  border-bottom-right-radius: 20px;
+  // border-top-left-radius: 20px;
+
+  .navbar-nav {
+    li {
+      margin-right: 10px;
+      .nav-link {
+        font-size: 15px;
+        font-weight: 550;
+        color: #101010;
+        text-transform: capitalize;
+        transition: all 0.3s ease-in-out;
+      }
+    }
+  }
+}
+.my_dropdown {
+  li {
+    margin-right: 0 !important;
+  }
+  .dropdown-menu {
+    padding: 0;
+    border-top: 4px solid black !important;
+    border-radius: 0;
+    border: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    .dropdown-item {
+      text-transform: capitalize;
+      font-size: 15px;
+      font-weight: 550;
+      color: #101010;
+      transition: all 0.3s ease-in-out;
+      span {
+        transition: all 0.3s ease-in-out;
+      }
+      &:hover {
+        color: $g;
+        span {
+          margin-left: 5px;
+        }
+      }
+    }
+  }
+}
+.nav_contact_btn {
+  background: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 14rem;
+  height: 53px;
+  text-transform: capitalize;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  font-size: 15px;
+  font-weight: 550;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    background: $g;
+    color: white;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+}
+.nav_my_top {
+  margin-top: -30px;
+  position: relative;
+  z-index: 2;
+}
+// nav
+// slider
+.owl-theme {
+  margin-top: -30px;
+}
+.slider_my {
+  img {
+    @include bg_img;
+    height: 42rem;
+    width: 100%;
+  }
+}
+.slider_text_div {
+  position: absolute;
+  background: white;
+  top: 8rem;
+  left: 7rem;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 35rem;
+  h1 {
+    font-weight: 600;
+    font-size: 55px;
+    color: #101010;
+    span {
+      color: $g;
+    }
+  }
+  p {
+    font-weight: 400;
+    font-size: 20px;
+  }
+}
+.slider_4_title {
+  font-size: 41px !important;
+}
+.slider_2_title {
+  font-size: 50px !important;
+}
+// slider end
+// indes about
+.title_index_about2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title_index_about {
+  p {
+    margin-bottom: 5px;
+    font-size: 18px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    i {
+      margin-right: 5px;
+      font-size: 15px;
+      color: $g;
+    }
+  }
+  h3 {
+    font-size: 28px;
+    font-weight: 700;
+    color: black;
+    margin-bottom: 1.5rem;
+  }
+}
+.index_about_text_div {
+  p {
+    margin-bottom: 10px;
+    font-size: 15px;
+    text-align: justify;
+    letter-spacing: 0.5px;
+    color: #666;
+    font-weight: 400;
+    line-height: 21px;
+  }
+}
+.index_about_img {
+  @include bg_img;
+  width: 35rem;
+  height: 24rem;
+  margin: auto;
+}
+.index_page_btn_div {
+  text-align: center;
+  background: transparent;
+  height: 15rem;
+  border-radius: 10px;
+  padding: 1rem;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    transition: all 0.3s ease-out;
+    background-color: $g;
+    img {
+      transform: rotateY(-360deg);
+      transition: all 0.9s ease 0s;
+    }
+    h3 {
+      color: white;
+      transition: all 0.3s ease-out;
+    }
+    p {
+      color: white;
+      transition: all 0.3s ease-out;
+    }
+  }
+  img {
+    width: 5rem;
+    height: 5rem;
+    @include bg_img;
+  }
+  h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    color: $g;
+    font-weight: 550;
+    margin-top: 10px;
+    transition: all 0.3s ease-in-out;
+  }
+  p {
+    margin-bottom: 0;
+    font-size: 13px;
+    color: #666;
+    line-height: 20px;
+    text-transform: capitalize;
+    font-weight: 400;
+    transition: all 0.3s ease-in-out;
+  }
+}
+// indes about end
+// Integrated Facility Management Services
+.ifm_top_div {
+  background-color: #eff3f5;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.ifm_card_div {
+  overflow: hidden;
+  width: 22rem;
+  height: 18rem;
+  margin: auto;
+  border-top-left-radius: 21px;
+  .ifm_img {
+    @include bg_img;
+    width: 22rem;
+    height: 18rem;
+    margin: auto;
+    border-top-left-radius: 21px;
+    transition: transform 0.3s ease;
+  }
+  &:hover {
+    border-top-left-radius: 21px;
+  }
+}
+.ifm_card_top_div {
+  width: 25rem;
+  margin: auto;
+  position: relative;
+  &:hover {
+    .ifm_img {
+      transform: scale(1.2);
+      border-top-left-radius: 21px;
+    }
+    .ifm_card_text_div {
+      h3 {
+        color: $g;
+        i {
+          color: $g;
+        }
+      }
+    }
+  }
+}
+.ifm_card_text_div {
+  background-color: white;
+  margin-top: -4rem;
+  width: 84%;
+  position: relative;
+  padding: 1rem;
+  margin-left: 40px;
+  border-top-left-radius: 21px;
+  // height: 14rem;
+  h3 {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: black;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease-in-out;
+    i {
+      font-size: 10px;
+      margin-right: 5px;
+    }
+  }
+  p {
+    margin-bottom: 0;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    color: #666;
+    font-weight: 400;
+    line-height: 21px;
+  }
+}
+.ifm_contact_btn {
+  background: transparent;
+  border: 1px solid black;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 12rem;
+  height: 45px;
+  text-transform: capitalize;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  font-size: 15px;
+  font-weight: 550;
+  transition: all 0.3s ease-in-out;
+  margin-top: 10px;
+  &:hover {
+    background: $g;
+    color: white;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: 1px solid transparent;
+  }
+}
+// Integrated Facility Management Services end
+// IT And Non-IT Supplies
+.it_div_top {
+  text-align: center;
+  img {
+    width: 4rem;
+    height: 4rem;
+    @include bg_img;
+    margin: auto;
+  }
+  h3 {
+    font-size: 23px;
+    font-weight: 550;
+    margin-top: 10px;
+    margin-bottom: 3px;
+    color: black;
+  }
+  p {
+    margin-bottom: 0;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    color: #666;
+    font-weight: 400;
+    line-height: 21px;
+  }
+}
+// IT And Non-IT Supplies end
+// mobile app
+.index_mobile_img {
+  @include bg_img;
+  width: 35rem;
+  height: 27rem;
+  margin: auto;
+}
+.mobile_app {
+  font-size: 50px !important;
+}
+.mobile_app_store_img_div {
+  margin-top: 25px;
+  img {
+    @include bg_img;
+    width: 10rem;
+    height: 4rem;
+    margin-right: 5px;
+  }
+}
+// mobile app end
+// Professional Consultancy Services
+.pcs_top_div {
+  @include bg_img;
+  background-image: url("../img/pcs1.jpg");
+  width: 100%;
+  height: auto;
+  position: relative;
+  .row {
+    justify-content: center;
+  }
+  .title_index_about {
+    color: white;
+    h3 {
+      color: white;
+    }
+  }
+}
+.pcs_inner_div {
+  display: flex;
+  margin: 0;
+  padding: 0;
+
+  img {
+    @include bg_img;
+    width: 3rem;
+    height: 3rem;
+  }
+  h3 {
+    font-size: 20px;
+    color: $g;
+    text-transform: capitalize;
+    font-weight: 550;
+    margin-bottom: 5px;
+  }
+  p {
+    margin-bottom: 0;
+    color: white;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 400;
+    line-height: 21px;
+  }
+}
+.pcs_inner_img_div {
+  @include bg_img;
+  background-image: url("../img/pcs.png");
+  height: 5rem;
+  width: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1rem;
+}
+.pcs_overlaey_div {
+  background-color: #00000069;
+  width: 100%;
+  height: 100%;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+// Professional Consultancy Services end
+// Electric Vehicle Charging Solution
+.electric_vehicle {
+  padding: 1rem;
+  background-color: #eff3f5;
+  border-radius: 10px;
+  text-align: center;
+  p {
+    margin-bottom: 0;
+    font-size: 15px;
+    font-weight: 400;
+    color: #666;
+    line-height: 21px;
+  }
+  h3 {
+    font-size: 20;
+    font-weight: 550;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+    color: $g;
+  }
+}
+.electric_vehicle_img {
+  @include bg_img;
+  width: 24rem;
+  height: 20rem;
+  margin: auto;
+  margin-top: 1rem;
+  border-radius: 8px;
+}
+// Electric Vehicle Charging Solution end
+// footer
+.recognized_img_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  img {
+    width: 12rem;
+  }
+}
+.recognized_img_div2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img {
+    width: 15rem;
+    margin-left: 18px;
+  }
+}
+.footer_top_div {
+  background-color: #252525;
+}
+.footer_text_div {
+  text-align: left;
+  img {
+    width: 10rem;
+  }
+  p {
+    margin-bottom: 0;
+    font-size: 15px;
+    font-weight: 450;
+    line-height: 21px;
+    color: white;
+    margin-top: 1rem;
+  }
+}
+.footer_link {
+  color: white;
+  text-transform: capitalize;
+  position: relative;
+  h5 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-transform: capitalize;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      color: white;
+      font-size: 15px;
+      font-weight: 550;
+      text-transform: capitalize;
+      margin-bottom: 8px;
+      a {
+        color: white;
+        transition: all 0.3s ease-in-out;
+        display: inline-block;
+        &:hover {
+          color: $g;
+        }
+      }
+      p {
+        display: flex;
+        align-items: baseline;
+        margin-bottom: 0;
+        i {
+          font-size: 13px;
+          margin-right: 15px;
+          color: $g;
+        }
+      }
+    }
+  }
+}
+.footer_hr {
+  background-color: #fff;
+  opacity: 1;
+  display: none;
+}
+.footer_bottom_div {
+  background-color: $g;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  margin-top: 2rem;
+  font-size: 15px;
+  font-weight: 550;
+  text-transform: capitalize;
+}
+// footer end
+// top header all page
+.top_header_all_page {
+  margin-top: -25px;
+  width: 100%;
+  height: 27rem;
+  position: relative;
+  .top_header_all_page_img {
+    @include bg_img;
+    width: 100%;
+    height: 27rem;
+  }
+}
+.top_header_all_page_inner {
+  position: absolute;
+  background-color: #000000a3;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.top_header_text_div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  h3 {
+    color: white;
+    text-transform: capitalize;
+    font-size: 60px;
+    font-weight: 550;
+    margin-bottom: 10px;
+  }
+}
+.top_header_text_div_inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  border-radius: 20px;
+  padding: 2px 13px;
+  span {
+    margin-top: -2px;
+    i {
+      font-size: 12px;
+    }
+  }
+  a {
+    text-transform: capitalize;
+    font-size: 15px;
+    margin-right: 5px;
+    color: black;
+    font-weight: 550;
+  }
+  p {
+    margin-bottom: 0;
+    text-transform: capitalize;
+    font-size: 15px;
+    margin-left: 5px;
+    color: black;
+    font-weight: 550;
+  }
+}
+.index_about_text_div2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  p {
+    width: 65rem;
+    text-align: center;
+  }
+}
+// top header all page end
