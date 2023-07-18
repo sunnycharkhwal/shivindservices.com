@@ -6,11 +6,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $body = ob_get_contents();
     ob_end_clean();
     // die($body);
-    $from = "Shiv Industrial Services <shivindservices@outlook.com>";
+    $from = "info@shivindservices.com";
     $headers = "MIME-Version: 1.0" . "\r\n";
     $headers .= "Content-type: text/html; charset=iso-8859-1" . "\r\n";
-    $headers .= "From: Shiv Industrial Services <shivindservices@outlook.com>" . "\r\n" .
-        "Reply-To: shivindservices@outlook.com" . "\r\n" .
+    $headers .= "From: info@shivindservices.com" . "\r\n" .
+        "Reply-To: info@shivindservices.com" . "\r\n" .
         "X-Mailer: PHP/" . phpversion();
 
     // $headers = "MIME-Version: 1.0\r\n";

@@ -6,18 +6,19 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $body = ob_get_contents();
     ob_end_clean();
     // die($body);
-    $from = "info@shivindservices.com";
+    $from = "Adyansh Solutions Services <shivindservices@outlook.com>";
     $headers = "MIME-Version: 1.0" . "\r\n";
     $headers .= "Content-type: text/html; charset=iso-8859-1" . "\r\n";
-    $headers .= "From: info@shivindservices.com" . "\r\n" .
-        "Reply-To: info@shivindservices.com" . "\r\n" .
+    $headers .= "From: Adyansh Solutions Services <shivindservices@outlook.com>" . "\r\n" .
+        "Reply-To: shivindservices@outlook.com" . "\r\n" .
         "X-Mailer: PHP/" . phpversion();
+
     // $headers = "MIME-Version: 1.0\r\n";
     // $headers .= "From: " . $from . "\r\n";
     // $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
     //preparing email prameters
     $to = "sunny.charkhwal@gmail.com";
-    // $to2 = "shivindservices@outlook.com";
+    // $to2 = "hackinghunter1995@gmail.com";
     $subject = "New enquiry";
     //sending email to user
     $emailSent = @mail($to, $subject, $body, $headers);

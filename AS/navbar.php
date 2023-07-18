@@ -21,13 +21,16 @@
                       <div class="container">
                           <ul class="navbar-nav">
                               <li>
-                                  <a class="nav-link" href="index.php">home </a>
+                                  <a class="<?php echo basename($_SERVER['PHP_SELF']) == 'index.php' ? 'nav-link text-white' : 'nav-link'; ?>"
+                                      href="index.php">home </a>
                               </li>
                               <li>
-                                  <a class="nav-link" href="about.php">about us </a>
+                                  <a class="<?php echo basename($_SERVER['PHP_SELF']) == 'about.php' ? 'nav-link text-white' : 'nav-link'; ?>"
+                                      href="about.php">about us </a>
                               </li>
                               <li>
-                                  <a class="nav-link" href="index.php">contact us</a>
+                                  <a class="<?php echo basename($_SERVER['PHP_SELF']) == 'contat_us.php' ? 'nav-link text-white' : 'nav-link'; ?>"
+                                      href="contat_us.php">contact us</a>
                               </li>
                               <li class="nav-item dropdown my_dropdown">
                                   <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Products

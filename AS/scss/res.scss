@@ -3,6 +3,57 @@
 @media (max-width: 320px) {
 }
 @media (max-width: 576px) {
+  .contact_form_div_ul {
+    justify-content: center;
+    h3 {
+      font-size: 19px;
+    }
+  }
+  .contact_form_div_ul_p {
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+  }
+  .contact_form_div_1 {
+    .title_index_about {
+      h3 {
+        font-size: 30px;
+      }
+    }
+  }
+  .nav_contact_btn_new {
+    width: 9rem !important;
+  }
+  .contact_form_div_1 {
+    background-color: #8cc63f;
+    padding: 1rem;
+    padding-left: 1rem;
+    height: auto;
+  }
+  .contact_form_div_2_inner {
+    position: relative;
+    width: 100%;
+    padding: 2rem;
+    border-radius: 0;
+    box-shadow: unset;
+    top: unset;
+    left: unset;
+  }
+  .contact_box {
+    height: auto;
+    background-color: black;
+    h3 {
+      font-size: 20px;
+      color: white;
+    }
+    p {
+      font-size: 12px;
+      color: white;
+    }
+    img {
+      width: 60px;
+    }
+  }
   .index_about_text_div2 {
     p {
       width: 100%;
@@ -205,6 +256,35 @@
   }
 }
 @media (min-width: 768px) {
+  .nav_contact_btn_new {
+    width: 9rem !important;
+  }
+  .contact_form_div_1 {
+    background-color: #8cc63f;
+    padding: 1rem;
+    padding-left: 1rem;
+    height: auto;
+  }
+  .contact_form_div_2_inner {
+    position: relative;
+    width: 100%;
+    padding: 2rem;
+    border-radius: 0;
+    box-shadow: unset;
+    top: unset;
+    left: unset;
+  }
+  .contact_box {
+    h3 {
+      font-size: 20px;
+    }
+    p {
+      font-size: 12px;
+    }
+    img {
+      width: 50px;
+    }
+  }
   .top_header_all_page {
     margin-top: 0;
   }
@@ -354,6 +434,35 @@
   }
 }
 @media (min-width: 1024px) {
+  .contact_form_div_1 {
+    background-color: #8cc63f;
+    padding: 3rem;
+    padding-left: 6rem;
+    height: 30rem;
+  }
+  .nav_contact_btn_new {
+    width: 10rem !important;
+  }
+  .contact_form_div_2_inner {
+    position: absolute;
+    width: 90%;
+    left: -3rem;
+    padding: 2rem;
+    border-radius: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    top: 3rem;
+  }
+  .contact_box {
+    h3 {
+      font-size: 20px;
+    }
+    p {
+      font-size: 12px;
+    }
+    img {
+      width: 50px;
+    }
+  }
   .top_header_all_page {
     margin-top: -25px;
   }
@@ -479,6 +588,24 @@
   }
 }
 @media (min-width: 1440px) {
+  .nav_contact_btn_new {
+    width: 9rem !important;
+  }
+  .contact_form_div_2_inner {
+    width: 70%;
+    left: -11rem;
+  }
+  .contact_box {
+    h3 {
+      font-size: 28px;
+    }
+    p {
+      font-size: 15px;
+    }
+    img {
+      width: 70px;
+    }
+  }
   .footer_link {
     ul {
       li {
